@@ -1,0 +1,4279 @@
+{
+  "events": [
+    {
+      "media": {
+        "url": "http://www.rubiksplace.com/images/moyu-aolong-speedcube.png",
+        "thumbnail": "http://www.rubiksplace.com/images/moyu-aolong-speedcube.png"
+      },
+      "start_date": {
+        "year": 2007,
+        "month": 5,
+        "date": 5
+      },
+      "text": {
+        "headline": "38.12 Single",
+        "text": "Caltech Discovery Spring 2007"
+      },
+      "background": {
+        "color": "#1ABC9C"
+      },
+      "group": "Rubik's Cube"
+    },
+    {
+      "media": {
+        "url": "http://www.rubiksplace.com/images/moyu-aolong-speedcube.png",
+        "thumbnail": "http://www.rubiksplace.com/images/moyu-aolong-speedcube.png"
+      },
+      "start_date": {
+        "year": 2007,
+        "month": 5,
+        "date": 5
+      },
+      "text": {
+        "headline": "49.82 Average",
+        "text": "Caltech Discovery Spring 2007"
+      },
+      "background": {
+        "color": "#1ABC9C"
+      },
+      "group": "Rubik's Cube"
+    },
+    {
+      "media": {
+        "url": "http://www.rubiksplace.com/images/moyu-aolong-speedcube.png",
+        "thumbnail": "http://www.rubiksplace.com/images/moyu-aolong-speedcube.png"
+      },
+      "start_date": {
+        "year": 2012,
+        "month": 2,
+        "date": 11
+      },
+      "text": {
+        "headline": "19.96 Single",
+        "text": "Caltech Winter 2012"
+      },
+      "background": {
+        "color": "#1ABC9C"
+      },
+      "group": "Rubik's Cube"
+    },
+    {
+      "media": {
+        "url": "http://www.rubiksplace.com/images/moyu-aolong-speedcube.png",
+        "thumbnail": "http://www.rubiksplace.com/images/moyu-aolong-speedcube.png"
+      },
+      "start_date": {
+        "year": 2012,
+        "month": 2,
+        "date": 11
+      },
+      "text": {
+        "headline": "21.27 Average",
+        "text": "Caltech Winter 2012"
+      },
+      "background": {
+        "color": "#1ABC9C"
+      },
+      "group": "Rubik's Cube"
+    },
+    {
+      "media": {
+        "url": "http://www.rubiksplace.com/images/moyu-aolong-speedcube.png",
+        "thumbnail": "http://www.rubiksplace.com/images/moyu-aolong-speedcube.png"
+      },
+      "start_date": {
+        "year": 2012,
+        "month": 5,
+        "date": 26
+      },
+      "text": {
+        "headline": "12.88 Single",
+        "text": "Caltech Spring 2012"
+      },
+      "background": {
+        "color": "#1ABC9C"
+      },
+      "group": "Rubik's Cube"
+    },
+    {
+      "media": {
+        "url": "http://www.rubiksplace.com/images/moyu-aolong-speedcube.png",
+        "thumbnail": "http://www.rubiksplace.com/images/moyu-aolong-speedcube.png"
+      },
+      "start_date": {
+        "year": 2012,
+        "month": 5,
+        "date": 26
+      },
+      "text": {
+        "headline": "18.59 Average",
+        "text": "Caltech Spring 2012"
+      },
+      "background": {
+        "color": "#1ABC9C"
+      },
+      "group": "Rubik's Cube"
+    },
+    {
+      "media": {
+        "url": "http://www.rubiksplace.com/images/moyu-aolong-speedcube.png",
+        "thumbnail": "http://www.rubiksplace.com/images/moyu-aolong-speedcube.png"
+      },
+      "start_date": {
+        "year": 2012,
+        "month": 10,
+        "date": 14
+      },
+      "text": {
+        "headline": "15.27 Average",
+        "text": "Diamond Bar Open 2012"
+      },
+      "background": {
+        "color": "#1ABC9C"
+      },
+      "group": "Rubik's Cube"
+    },
+    {
+      "media": {
+        "url": "http://www.rubiksplace.com/images/moyu-aolong-speedcube.png",
+        "thumbnail": "http://www.rubiksplace.com/images/moyu-aolong-speedcube.png"
+      },
+      "start_date": {
+        "year": 2013,
+        "month": 1,
+        "date": 5
+      },
+      "text": {
+        "headline": "10.78 Single",
+        "text": "Antelope Valley Winter 2013"
+      },
+      "background": {
+        "color": "#1ABC9C"
+      },
+      "group": "Rubik's Cube"
+    },
+    {
+      "media": {
+        "url": "http://www.rubiksplace.com/images/moyu-aolong-speedcube.png",
+        "thumbnail": "http://www.rubiksplace.com/images/moyu-aolong-speedcube.png"
+      },
+      "start_date": {
+        "year": 2013,
+        "month": 1,
+        "date": 5
+      },
+      "text": {
+        "headline": "13.42 Average",
+        "text": "Antelope Valley Winter 2013"
+      },
+      "background": {
+        "color": "#1ABC9C"
+      },
+      "group": "Rubik's Cube"
+    },
+    {
+      "media": {
+        "url": "http://www.rubiksplace.com/images/moyu-aolong-speedcube.png",
+        "thumbnail": "http://www.rubiksplace.com/images/moyu-aolong-speedcube.png"
+      },
+      "start_date": {
+        "year": 2013,
+        "month": 2,
+        "date": 23
+      },
+      "text": {
+        "headline": "13.09 Average",
+        "text": "Caltech Winter Open 2013"
+      },
+      "background": {
+        "color": "#1ABC9C"
+      },
+      "group": "Rubik's Cube"
+    },
+    {
+      "media": {
+        "url": "http://www.rubiksplace.com/images/moyu-aolong-speedcube.png",
+        "thumbnail": "http://www.rubiksplace.com/images/moyu-aolong-speedcube.png"
+      },
+      "start_date": {
+        "year": 2013,
+        "month": 2,
+        "date": 23
+      },
+      "text": {
+        "headline": "10.56 Single",
+        "text": "Caltech Winter Open 2013"
+      },
+      "background": {
+        "color": "#1ABC9C"
+      },
+      "group": "Rubik's Cube"
+    },
+    {
+      "media": {
+        "url": "http://www.rubiksplace.com/images/moyu-aolong-speedcube.png",
+        "thumbnail": "http://www.rubiksplace.com/images/moyu-aolong-speedcube.png"
+      },
+      "start_date": {
+        "year": 2013,
+        "month": 4,
+        "date": 27
+      },
+      "text": {
+        "headline": "10.43 Single",
+        "text": "Diamond Bar Spring Open 2013"
+      },
+      "background": {
+        "color": "#1ABC9C"
+      },
+      "group": "Rubik's Cube"
+    },
+    {
+      "media": {
+        "url": "http://www.rubiksplace.com/images/moyu-aolong-speedcube.png",
+        "thumbnail": "http://www.rubiksplace.com/images/moyu-aolong-speedcube.png"
+      },
+      "start_date": {
+        "year": 2013,
+        "month": 4,
+        "date": 27
+      },
+      "text": {
+        "headline": "12.89 Average",
+        "text": "Diamond Bar Spring Open 2013"
+      },
+      "background": {
+        "color": "#1ABC9C"
+      },
+      "group": "Rubik's Cube"
+    },
+    {
+      "media": {
+        "url": "http://www.rubiksplace.com/images/moyu-aolong-speedcube.png",
+        "thumbnail": "http://www.rubiksplace.com/images/moyu-aolong-speedcube.png"
+      },
+      "start_date": {
+        "year": 2013,
+        "month": 4,
+        "date": 27
+      },
+      "text": {
+        "headline": "10.02 Single",
+        "text": "Diamond Bar Spring Open 2013"
+      },
+      "background": {
+        "color": "#1ABC9C"
+      },
+      "group": "Rubik's Cube"
+    },
+    {
+      "media": {
+        "url": "http://www.rubiksplace.com/images/moyu-aolong-speedcube.png",
+        "thumbnail": "http://www.rubiksplace.com/images/moyu-aolong-speedcube.png"
+      },
+      "start_date": {
+        "year": 2013,
+        "month": 5,
+        "date": 25
+      },
+      "text": {
+        "headline": "12.83 Average",
+        "text": "Caltech Spring Open 2013"
+      },
+      "background": {
+        "color": "#1ABC9C"
+      },
+      "group": "Rubik's Cube"
+    },
+    {
+      "media": {
+        "url": "http://www.rubiksplace.com/images/moyu-aolong-speedcube.png",
+        "thumbnail": "http://www.rubiksplace.com/images/moyu-aolong-speedcube.png"
+      },
+      "start_date": {
+        "year": 2013,
+        "month": 5,
+        "date": 25
+      },
+      "text": {
+        "headline": "11.90 Average",
+        "text": "Caltech Spring Open 2013"
+      },
+      "background": {
+        "color": "#1ABC9C"
+      },
+      "group": "Rubik's Cube"
+    },
+    {
+      "media": {
+        "url": "http://www.rubiksplace.com/images/moyu-aolong-speedcube.png",
+        "thumbnail": "http://www.rubiksplace.com/images/moyu-aolong-speedcube.png"
+      },
+      "start_date": {
+        "year": 2013,
+        "month": 7,
+        "date": 27
+      },
+      "text": {
+        "headline": "9.26 Single",
+        "text": "World Rubik's Cube Championship 2013"
+      },
+      "background": {
+        "color": "#1ABC9C"
+      },
+      "group": "Rubik's Cube"
+    },
+    {
+      "media": {
+        "url": "http://www.rubiksplace.com/images/moyu-aolong-speedcube.png",
+        "thumbnail": "http://www.rubiksplace.com/images/moyu-aolong-speedcube.png"
+      },
+      "start_date": {
+        "year": 2013,
+        "month": 7,
+        "date": 27
+      },
+      "text": {
+        "headline": "11.53 Average",
+        "text": "World Rubik's Cube Championship 2013"
+      },
+      "background": {
+        "color": "#1ABC9C"
+      },
+      "group": "Rubik's Cube"
+    },
+    {
+      "media": {
+        "url": "http://www.rubiksplace.com/images/moyu-aolong-speedcube.png",
+        "thumbnail": "http://www.rubiksplace.com/images/moyu-aolong-speedcube.png"
+      },
+      "start_date": {
+        "year": 2013,
+        "month": 11,
+        "date": 23
+      },
+      "text": {
+        "headline": "9.09 Single",
+        "text": "Lexington Fall 2013"
+      },
+      "background": {
+        "color": "#1ABC9C"
+      },
+      "group": "Rubik's Cube"
+    },
+    {
+      "media": {
+        "url": "http://www.rubiksplace.com/images/moyu-aolong-speedcube.png",
+        "thumbnail": "http://www.rubiksplace.com/images/moyu-aolong-speedcube.png"
+      },
+      "start_date": {
+        "year": 2013,
+        "month": 12,
+        "date": 14
+      },
+      "text": {
+        "headline": "11.39 Average",
+        "text": "Liberty Science Center Open 2013"
+      },
+      "background": {
+        "color": "#1ABC9C"
+      },
+      "group": "Rubik's Cube"
+    },
+    {
+      "media": {
+        "url": "http://www.rubiksplace.com/images/moyu-aolong-speedcube.png",
+        "thumbnail": "http://www.rubiksplace.com/images/moyu-aolong-speedcube.png"
+      },
+      "start_date": {
+        "year": 2013,
+        "month": 12,
+        "date": 14
+      },
+      "text": {
+        "headline": "8.87 Single",
+        "text": "Liberty Science Center Open 2013"
+      },
+      "background": {
+        "color": "#1ABC9C"
+      },
+      "group": "Rubik's Cube"
+    },
+    {
+      "media": {
+        "url": "http://www.rubiksplace.com/images/moyu-aolong-speedcube.png",
+        "thumbnail": "http://www.rubiksplace.com/images/moyu-aolong-speedcube.png"
+      },
+      "start_date": {
+        "year": 2014,
+        "month": 2,
+        "date": 1
+      },
+      "text": {
+        "headline": "11.08 Average",
+        "text": "CCFC Winter 2014"
+      },
+      "background": {
+        "color": "#1ABC9C"
+      },
+      "group": "Rubik's Cube"
+    },
+    {
+      "media": {
+        "url": "http://www.rubiksplace.com/images/moyu-aolong-speedcube.png",
+        "thumbnail": "http://www.rubiksplace.com/images/moyu-aolong-speedcube.png"
+      },
+      "start_date": {
+        "year": 2014,
+        "month": 5,
+        "date": 17
+      },
+      "text": {
+        "headline": "8.71 Single",
+        "text": "Caltech Spring Open 2014"
+      },
+      "background": {
+        "color": "#1ABC9C"
+      },
+      "group": "Rubik's Cube"
+    },
+    {
+      "media": {
+        "url": "http://www.rubiksplace.com/images/moyu-aolong-speedcube.png",
+        "thumbnail": "http://www.rubiksplace.com/images/moyu-aolong-speedcube.png"
+      },
+      "start_date": {
+        "year": 2014,
+        "month": 5,
+        "date": 24
+      },
+      "text": {
+        "headline": "10.58 Average",
+        "text": "San Diego Summer Splash 2014"
+      },
+      "background": {
+        "color": "#1ABC9C"
+      },
+      "group": "Rubik's Cube"
+    },
+    {
+      "media": {
+        "url": "http://www.rubiksplace.com/images/moyu-aolong-speedcube.png",
+        "thumbnail": "http://www.rubiksplace.com/images/moyu-aolong-speedcube.png"
+      },
+      "start_date": {
+        "year": 2014,
+        "month": 6,
+        "date": 14
+      },
+      "text": {
+        "headline": "8.48 Single",
+        "text": "BASC 3: Flagj Day 2014"
+      },
+      "background": {
+        "color": "#1ABC9C"
+      },
+      "group": "Rubik's Cube"
+    },
+    {
+      "media": {
+        "url": "http://www.rubiksplace.com/images/moyu-aolong-speedcube.png",
+        "thumbnail": "http://www.rubiksplace.com/images/moyu-aolong-speedcube.png"
+      },
+      "start_date": {
+        "year": 2014,
+        "month": 6,
+        "date": 14
+      },
+      "text": {
+        "headline": "10.44 Average",
+        "text": "BASC 3: Flagj Day 2014"
+      },
+      "background": {
+        "color": "#1ABC9C"
+      },
+      "group": "Rubik's Cube"
+    },
+    {
+      "media": {
+        "url": "http://www.rubiksplace.com/images/moyu-aolong-speedcube.png",
+        "thumbnail": "http://www.rubiksplace.com/images/moyu-aolong-speedcube.png"
+      },
+      "start_date": {
+        "year": 2014,
+        "month": 7,
+        "date": 5
+      },
+      "text": {
+        "headline": "10.41 Average",
+        "text": "Newport Cube Day 2014"
+      },
+      "background": {
+        "color": "#1ABC9C"
+      },
+      "group": "Rubik's Cube"
+    },
+    {
+      "media": {
+        "url": "http://www.rubiksplace.com/images/moyu-aolong-speedcube.png",
+        "thumbnail": "http://www.rubiksplace.com/images/moyu-aolong-speedcube.png"
+      },
+      "start_date": {
+        "year": 2014,
+        "month": 9,
+        "date": 27
+      },
+      "text": {
+        "headline": "10.40 Average",
+        "text": "GCC Fall 2014"
+      },
+      "background": {
+        "color": "#1ABC9C"
+      },
+      "group": "Rubik's Cube"
+    },
+    {
+      "media": {
+        "url": "http://www.rubiksplace.com/images/moyu-aolong-speedcube.png",
+        "thumbnail": "http://www.rubiksplace.com/images/moyu-aolong-speedcube.png"
+      },
+      "start_date": {
+        "year": 2015,
+        "month": 4,
+        "date": 11
+      },
+      "text": {
+        "headline": "10.21 Average",
+        "text": "Lexington Spring 2015"
+      },
+      "background": {
+        "color": "#1ABC9C"
+      },
+      "group": "Rubik's Cube"
+    },
+    {
+      "media": {
+        "url": "http://www.rubiksplace.com/images/moyu-aolong-speedcube.png",
+        "thumbnail": "http://www.rubiksplace.com/images/moyu-aolong-speedcube.png"
+      },
+      "start_date": {
+        "year": 2015,
+        "month": 10,
+        "date": 3
+      },
+      "text": {
+        "headline": "10.05 Average",
+        "text": "Phillips Exeter Cube Day 2015"
+      },
+      "background": {
+        "color": "#1ABC9C"
+      },
+      "group": "Rubik's Cube"
+    },
+    {
+      "media": {
+        "url": "http://www.rubiksplace.com/images/moyu-aolong-speedcube.png",
+        "thumbnail": "http://www.rubiksplace.com/images/moyu-aolong-speedcube.png"
+      },
+      "start_date": {
+        "year": 2015,
+        "month": 10,
+        "date": 11
+      },
+      "text": {
+        "headline": "9.65 Average",
+        "text": "Irvine Fall 2015"
+      },
+      "background": {
+        "color": "#1ABC9C"
+      },
+      "group": "Rubik's Cube"
+    },
+    {
+      "media": {
+        "url": "http://www.rubiksplace.com/images/moyu-aolong-speedcube.png",
+        "thumbnail": "http://www.rubiksplace.com/images/moyu-aolong-speedcube.png"
+      },
+      "start_date": {
+        "year": 2015,
+        "month": 12,
+        "date": 12
+      },
+      "text": {
+        "headline": "8.34 Single",
+        "text": "MIT Fall 2015"
+      },
+      "background": {
+        "color": "#1ABC9C"
+      },
+      "group": "Rubik's Cube"
+    },
+    {
+      "media": {
+        "url": "http://www.rubiksplace.com/images/moyu-aolong-speedcube.png",
+        "thumbnail": "http://www.rubiksplace.com/images/moyu-aolong-speedcube.png"
+      },
+      "start_date": {
+        "year": 2015,
+        "month": 1,
+        "date": 30
+      },
+      "text": {
+        "headline": "7.87 Single",
+        "text": "Sharon Winter 2016"
+      },
+      "background": {
+        "color": "#1ABC9C"
+      },
+      "group": "Rubik's Cube"
+    },
+    {
+      "media": {
+        "url": "http://www.rubiksplace.com/images/best-speedcubes/dayan-2x2-speedcube.png",
+        "thumbnail": "http://www.rubiksplace.com/images/best-speedcubes/dayan-2x2-speedcube.png"
+      },
+      "start_date": {
+        "year": 2012,
+        "month": 2,
+        "date": 11
+      },
+      "text": {
+        "headline": "8.56 Single",
+        "text": "Caltech Winter 2012"
+      },
+      "background": {
+        "color": "#DC7633"
+      },
+      "group": "2x2x2 Cube"
+    },
+    {
+      "media": {
+        "url": "http://www.rubiksplace.com/images/best-speedcubes/dayan-2x2-speedcube.png",
+        "thumbnail": "http://www.rubiksplace.com/images/best-speedcubes/dayan-2x2-speedcube.png"
+      },
+      "start_date": {
+        "year": 2012,
+        "month": 2,
+        "date": 11
+      },
+      "text": {
+        "headline": "11.88 Average",
+        "text": "Caltech Winter 2012"
+      },
+      "background": {
+        "color": "#DC7633"
+      },
+      "group": "2x2x2 Cube"
+    },
+    {
+      "media": {
+        "url": "http://www.rubiksplace.com/images/best-speedcubes/dayan-2x2-speedcube.png",
+        "thumbnail": "http://www.rubiksplace.com/images/best-speedcubes/dayan-2x2-speedcube.png"
+      },
+      "start_date": {
+        "year": 2012,
+        "month": 5,
+        "date": 26
+      },
+      "text": {
+        "headline": "7.30 Single",
+        "text": "Caltech Spring 2012"
+      },
+      "background": {
+        "color": "#DC7633"
+      },
+      "group": "2x2x2 Cube"
+    },
+    {
+      "media": {
+        "url": "http://www.rubiksplace.com/images/best-speedcubes/dayan-2x2-speedcube.png",
+        "thumbnail": "http://www.rubiksplace.com/images/best-speedcubes/dayan-2x2-speedcube.png"
+      },
+      "start_date": {
+        "year": 2012,
+        "month": 5,
+        "date": 26
+      },
+      "text": {
+        "headline": "7.84 Average",
+        "text": "Caltech Spring 2012"
+      },
+      "background": {
+        "color": "#DC7633"
+      },
+      "group": "2x2x2 Cube"
+    },
+    {
+      "media": {
+        "url": "http://www.rubiksplace.com/images/best-speedcubes/dayan-2x2-speedcube.png",
+        "thumbnail": "http://www.rubiksplace.com/images/best-speedcubes/dayan-2x2-speedcube.png"
+      },
+      "start_date": {
+        "year": 2012,
+        "month": 10,
+        "date": 14
+      },
+      "text": {
+        "headline": "6.53 Single",
+        "text": "Diamond Bar Open 2012"
+      },
+      "background": {
+        "color": "#DC7633"
+      },
+      "group": "2x2x2 Cube"
+    },
+    {
+      "media": {
+        "url": "http://www.rubiksplace.com/images/best-speedcubes/dayan-2x2-speedcube.png",
+        "thumbnail": "http://www.rubiksplace.com/images/best-speedcubes/dayan-2x2-speedcube.png"
+      },
+      "start_date": {
+        "year": 2012,
+        "month": 10,
+        "date": 14
+      },
+      "text": {
+        "headline": "7.84 Average",
+        "text": "Diamond Bar Open 2012"
+      },
+      "background": {
+        "color": "#DC7633"
+      },
+      "group": "2x2x2 Cube"
+    },
+    {
+      "media": {
+        "url": "http://www.rubiksplace.com/images/best-speedcubes/dayan-2x2-speedcube.png",
+        "thumbnail": "http://www.rubiksplace.com/images/best-speedcubes/dayan-2x2-speedcube.png"
+      },
+      "start_date": {
+        "year": 2013,
+        "month": 1,
+        "date": 5
+      },
+      "text": {
+        "headline": "3.33 Single",
+        "text": "Antelope Valley Winter 2013"
+      },
+      "background": {
+        "color": "#DC7633"
+      },
+      "group": "2x2x2 Cube"
+    },
+    {
+      "media": {
+        "url": "http://www.rubiksplace.com/images/best-speedcubes/dayan-2x2-speedcube.png",
+        "thumbnail": "http://www.rubiksplace.com/images/best-speedcubes/dayan-2x2-speedcube.png"
+      },
+      "start_date": {
+        "year": 2013,
+        "month": 1,
+        "date": 5
+      },
+      "text": {
+        "headline": "5.75 Average",
+        "text": "Antelope Valley Winter 2013"
+      },
+      "background": {
+        "color": "#DC7633"
+      },
+      "group": "2x2x2 Cube"
+    },
+    {
+      "media": {
+        "url": "http://www.rubiksplace.com/images/best-speedcubes/dayan-2x2-speedcube.png",
+        "thumbnail": "http://www.rubiksplace.com/images/best-speedcubes/dayan-2x2-speedcube.png"
+      },
+      "start_date": {
+        "year": 2013,
+        "month": 1,
+        "date": 5
+      },
+      "text": {
+        "headline": "5.50 Average",
+        "text": "Antelope Valley Winter 2013"
+      },
+      "background": {
+        "color": "#DC7633"
+      },
+      "group": "2x2x2 Cube"
+    },
+    {
+      "media": {
+        "url": "http://www.rubiksplace.com/images/best-speedcubes/dayan-2x2-speedcube.png",
+        "thumbnail": "http://www.rubiksplace.com/images/best-speedcubes/dayan-2x2-speedcube.png"
+      },
+      "start_date": {
+        "year": 2013,
+        "month": 4,
+        "date": 27
+      },
+      "text": {
+        "headline": "5.48 Average",
+        "text": "Diamond Bar Spring Open 2013"
+      },
+      "background": {
+        "color": "#DC7633"
+      },
+      "group": "2x2x2 Cube"
+    },
+    {
+      "media": {
+        "url": "http://www.rubiksplace.com/images/best-speedcubes/dayan-2x2-speedcube.png",
+        "thumbnail": "http://www.rubiksplace.com/images/best-speedcubes/dayan-2x2-speedcube.png"
+      },
+      "start_date": {
+        "year": 2013,
+        "month": 5,
+        "date": 25
+      },
+      "text": {
+        "headline": "4.88 Average",
+        "text": "Caltech Spring Open 2013"
+      },
+      "background": {
+        "color": "#DC7633"
+      },
+      "group": "2x2x2 Cube"
+    },
+    {
+      "media": {
+        "url": "http://www.rubiksplace.com/images/best-speedcubes/dayan-2x2-speedcube.png",
+        "thumbnail": "http://www.rubiksplace.com/images/best-speedcubes/dayan-2x2-speedcube.png"
+      },
+      "start_date": {
+        "year": 2013,
+        "month": 6,
+        "date": 8
+      },
+      "text": {
+        "headline": "4.70 Average",
+        "text": "San Diego Summer Splash 2013"
+      },
+      "background": {
+        "color": "#DC7633"
+      },
+      "group": "2x2x2 Cube"
+    },
+    {
+      "media": {
+        "url": "http://www.rubiksplace.com/images/best-speedcubes/dayan-2x2-speedcube.png",
+        "thumbnail": "http://www.rubiksplace.com/images/best-speedcubes/dayan-2x2-speedcube.png"
+      },
+      "start_date": {
+        "year": 2013,
+        "month": 7,
+        "date": 26
+      },
+      "text": {
+        "headline": "4.57 Average",
+        "text": "World Rubik's Cube Championship 2013"
+      },
+      "background": {
+        "color": "#DC7633"
+      },
+      "group": "2x2x2 Cube"
+    },
+    {
+      "media": {
+        "url": "http://www.rubiksplace.com/images/best-speedcubes/dayan-2x2-speedcube.png",
+        "thumbnail": "http://www.rubiksplace.com/images/best-speedcubes/dayan-2x2-speedcube.png"
+      },
+      "start_date": {
+        "year": 2013,
+        "month": 7,
+        "date": 27
+      },
+      "text": {
+        "headline": "3.15 Single",
+        "text": "World Rubik's Cube Championship 2013"
+      },
+      "background": {
+        "color": "#DC7633"
+      },
+      "group": "2x2x2 Cube"
+    },
+    {
+      "media": {
+        "url": "http://www.rubiksplace.com/images/best-speedcubes/dayan-2x2-speedcube.png",
+        "thumbnail": "http://www.rubiksplace.com/images/best-speedcubes/dayan-2x2-speedcube.png"
+      },
+      "start_date": {
+        "year": 2013,
+        "month": 10,
+        "date": 5
+      },
+      "text": {
+        "headline": "3.13 Single",
+        "text": "Harvard Fall 2013"
+      },
+      "background": {
+        "color": "#DC7633"
+      },
+      "group": "2x2x2 Cube"
+    },
+    {
+      "media": {
+        "url": "http://www.rubiksplace.com/images/best-speedcubes/dayan-2x2-speedcube.png",
+        "thumbnail": "http://www.rubiksplace.com/images/best-speedcubes/dayan-2x2-speedcube.png"
+      },
+      "start_date": {
+        "year": 2013,
+        "month": 10,
+        "date": 5
+      },
+      "text": {
+        "headline": "4.21 Average",
+        "text": "Harvard Fall 2013"
+      },
+      "background": {
+        "color": "#DC7633"
+      },
+      "group": "2x2x2 Cube"
+    },
+    {
+      "media": {
+        "url": "http://www.rubiksplace.com/images/best-speedcubes/dayan-2x2-speedcube.png",
+        "thumbnail": "http://www.rubiksplace.com/images/best-speedcubes/dayan-2x2-speedcube.png"
+      },
+      "start_date": {
+        "year": 2013,
+        "month": 11,
+        "date": 23
+      },
+      "text": {
+        "headline": "3.13 Single",
+        "text": "Lexington Fall 2013"
+      },
+      "background": {
+        "color": "#DC7633"
+      },
+      "group": "2x2x2 Cube"
+    },
+    {
+      "media": {
+        "url": "http://www.rubiksplace.com/images/best-speedcubes/dayan-2x2-speedcube.png",
+        "thumbnail": "http://www.rubiksplace.com/images/best-speedcubes/dayan-2x2-speedcube.png"
+      },
+      "start_date": {
+        "year": 2013,
+        "month": 11,
+        "date": 23
+      },
+      "text": {
+        "headline": "4.11 Average",
+        "text": "Lexington Fall 2013"
+      },
+      "background": {
+        "color": "#DC7633"
+      },
+      "group": "2x2x2 Cube"
+    },
+    {
+      "media": {
+        "url": "http://www.rubiksplace.com/images/best-speedcubes/dayan-2x2-speedcube.png",
+        "thumbnail": "http://www.rubiksplace.com/images/best-speedcubes/dayan-2x2-speedcube.png"
+      },
+      "start_date": {
+        "year": 2014,
+        "month": 6,
+        "date": 14
+      },
+      "text": {
+        "headline": "2.82 Single",
+        "text": "BASC 3: Flagj Day 2014"
+      },
+      "background": {
+        "color": "#DC7633"
+      },
+      "group": "2x2x2 Cube"
+    },
+    {
+      "media": {
+        "url": "http://www.rubiksplace.com/images/best-speedcubes/dayan-2x2-speedcube.png",
+        "thumbnail": "http://www.rubiksplace.com/images/best-speedcubes/dayan-2x2-speedcube.png"
+      },
+      "start_date": {
+        "year": 2014,
+        "month": 8,
+        "date": 2
+      },
+      "text": {
+        "headline": "2.24 Single",
+        "text": "US Nationals 2014"
+      },
+      "background": {
+        "color": "#DC7633"
+      },
+      "group": "2x2x2 Cube"
+    },
+    {
+      "media": {
+        "url": "http://www.rubiksplace.com/images/best-speedcubes/dayan-2x2-speedcube.png",
+        "thumbnail": "http://www.rubiksplace.com/images/best-speedcubes/dayan-2x2-speedcube.png"
+      },
+      "start_date": {
+        "year": 2015,
+        "month": 3,
+        "date": 7
+      },
+      "text": {
+        "headline": "1.79 Single",
+        "text": "Williams Winter 2015"
+      },
+      "background": {
+        "color": "#DC7633"
+      },
+      "group": "2x2x2 Cube"
+    },
+    {
+      "media": {
+        "url": "http://www.rubiksplace.com/images/best-speedcubes/moyu-aosu.png",
+        "thumbnail": "http://www.rubiksplace.com/images/best-speedcubes/moyu-aosu.png"
+      },
+      "start_date": {
+        "year": 2012,
+        "month": 2,
+        "date": 11
+      },
+      "text": {
+        "headline": "1:48.91 Single",
+        "text": "Caltech Winter 2012"
+      },
+      "background": {
+        "color": "#9B59B6"
+      },
+      "group": "4x4x4 Cube"
+    },
+    {
+      "media": {
+        "url": "http://www.rubiksplace.com/images/best-speedcubes/moyu-aosu.png",
+        "thumbnail": "http://www.rubiksplace.com/images/best-speedcubes/moyu-aosu.png"
+      },
+      "start_date": {
+        "year": 2012,
+        "month": 5,
+        "date": 26
+      },
+      "text": {
+        "headline": "1:19.41 Single",
+        "text": "Caltech Spring 2012"
+      },
+      "background": {
+        "color": "#9B59B6"
+      },
+      "group": "4x4x4 Cube"
+    },
+    {
+      "media": {
+        "url": "http://www.rubiksplace.com/images/best-speedcubes/moyu-aosu.png",
+        "thumbnail": "http://www.rubiksplace.com/images/best-speedcubes/moyu-aosu.png"
+      },
+      "start_date": {
+        "year": 2012,
+        "month": 5,
+        "date": 26
+      },
+      "text": {
+        "headline": "1:26.80 Average",
+        "text": "Caltech Spring 2012"
+      },
+      "background": {
+        "color": "#9B59B6"
+      },
+      "group": "4x4x4 Cube"
+    },
+    {
+      "media": {
+        "url": "http://www.rubiksplace.com/images/best-speedcubes/moyu-aosu.png",
+        "thumbnail": "http://www.rubiksplace.com/images/best-speedcubes/moyu-aosu.png"
+      },
+      "start_date": {
+        "year": 2012,
+        "month": 10,
+        "date": 14
+      },
+      "text": {
+        "headline": "57.02 Single",
+        "text": "Diamond Bar Open 2012"
+      },
+      "background": {
+        "color": "#9B59B6"
+      },
+      "group": "4x4x4 Cube"
+    },
+    {
+      "media": {
+        "url": "http://www.rubiksplace.com/images/best-speedcubes/moyu-aosu.png",
+        "thumbnail": "http://www.rubiksplace.com/images/best-speedcubes/moyu-aosu.png"
+      },
+      "start_date": {
+        "year": 2012,
+        "month": 10,
+        "date": 14
+      },
+      "text": {
+        "headline": "1:03.10 Average",
+        "text": "Diamond Bar Open 2012"
+      },
+      "background": {
+        "color": "#9B59B6"
+      },
+      "group": "4x4x4 Cube"
+    },
+    {
+      "media": {
+        "url": "http://www.rubiksplace.com/images/best-speedcubes/moyu-aosu.png",
+        "thumbnail": "http://www.rubiksplace.com/images/best-speedcubes/moyu-aosu.png"
+      },
+      "start_date": {
+        "year": 2013,
+        "month": 1,
+        "date": 5
+      },
+      "text": {
+        "headline": "54.21 Single",
+        "text": "Antelope Valley Winter 2013"
+      },
+      "background": {
+        "color": "#9B59B6"
+      },
+      "group": "4x4x4 Cube"
+    },
+    {
+      "media": {
+        "url": "http://www.rubiksplace.com/images/best-speedcubes/moyu-aosu.png",
+        "thumbnail": "http://www.rubiksplace.com/images/best-speedcubes/moyu-aosu.png"
+      },
+      "start_date": {
+        "year": 2013,
+        "month": 1,
+        "date": 5
+      },
+      "text": {
+        "headline": "57.44 Average",
+        "text": "Antelope Valley Winter 2013"
+      },
+      "background": {
+        "color": "#9B59B6"
+      },
+      "group": "4x4x4 Cube"
+    },
+    {
+      "media": {
+        "url": "http://www.rubiksplace.com/images/best-speedcubes/moyu-aosu.png",
+        "thumbnail": "http://www.rubiksplace.com/images/best-speedcubes/moyu-aosu.png"
+      },
+      "start_date": {
+        "year": 2013,
+        "month": 2,
+        "date": 23
+      },
+      "text": {
+        "headline": "44.97 Single",
+        "text": "Caltech Winter Open 2013"
+      },
+      "background": {
+        "color": "#9B59B6"
+      },
+      "group": "4x4x4 Cube"
+    },
+    {
+      "media": {
+        "url": "http://www.rubiksplace.com/images/best-speedcubes/moyu-aosu.png",
+        "thumbnail": "http://www.rubiksplace.com/images/best-speedcubes/moyu-aosu.png"
+      },
+      "start_date": {
+        "year": 2013,
+        "month": 5,
+        "date": 25
+      },
+      "text": {
+        "headline": "53.98 Average",
+        "text": "Caltech Spring Open 2013"
+      },
+      "background": {
+        "color": "#9B59B6"
+      },
+      "group": "4x4x4 Cube"
+    },
+    {
+      "media": {
+        "url": "http://www.rubiksplace.com/images/best-speedcubes/moyu-aosu.png",
+        "thumbnail": "http://www.rubiksplace.com/images/best-speedcubes/moyu-aosu.png"
+      },
+      "start_date": {
+        "year": 2013,
+        "month": 9,
+        "date": 21
+      },
+      "text": {
+        "headline": "44.29 Single",
+        "text": "CCFC Fall 2013"
+      },
+      "background": {
+        "color": "#9B59B6"
+      },
+      "group": "4x4x4 Cube"
+    },
+    {
+      "media": {
+        "url": "http://www.rubiksplace.com/images/best-speedcubes/moyu-aosu.png",
+        "thumbnail": "http://www.rubiksplace.com/images/best-speedcubes/moyu-aosu.png"
+      },
+      "start_date": {
+        "year": 2013,
+        "month": 9,
+        "date": 21
+      },
+      "text": {
+        "headline": "47.69 Single",
+        "text": "CCFC Fall 2013"
+      },
+      "background": {
+        "color": "#9B59B6"
+      },
+      "group": "4x4x4 Cube"
+    },
+    {
+      "media": {
+        "url": "http://www.rubiksplace.com/images/best-speedcubes/moyu-aosu.png",
+        "thumbnail": "http://www.rubiksplace.com/images/best-speedcubes/moyu-aosu.png"
+      },
+      "start_date": {
+        "year": 2013,
+        "month": 10,
+        "date": 5
+      },
+      "text": {
+        "headline": "43.84 Single",
+        "text": "Harvard Fall 2013"
+      },
+      "background": {
+        "color": "#9B59B6"
+      },
+      "group": "4x4x4 Cube"
+    },
+    {
+      "media": {
+        "url": "http://www.rubiksplace.com/images/best-speedcubes/moyu-aosu.png",
+        "thumbnail": "http://www.rubiksplace.com/images/best-speedcubes/moyu-aosu.png"
+      },
+      "start_date": {
+        "year": 2013,
+        "month": 10,
+        "date": 26
+      },
+      "text": {
+        "headline": "42.38 Single",
+        "text": "Yale Fall 2013"
+      },
+      "background": {
+        "color": "#9B59B6"
+      },
+      "group": "4x4x4 Cube"
+    },
+    {
+      "media": {
+        "url": "http://www.rubiksplace.com/images/best-speedcubes/moyu-aosu.png",
+        "thumbnail": "http://www.rubiksplace.com/images/best-speedcubes/moyu-aosu.png"
+      },
+      "start_date": {
+        "year": 2013,
+        "month": 11,
+        "date": 23
+      },
+      "text": {
+        "headline": "45.06 Average",
+        "text": "Lexington Fall 2013"
+      },
+      "background": {
+        "color": "#9B59B6"
+      },
+      "group": "4x4x4 Cube"
+    },
+    {
+      "media": {
+        "url": "http://www.rubiksplace.com/images/best-speedcubes/moyu-aosu.png",
+        "thumbnail": "http://www.rubiksplace.com/images/best-speedcubes/moyu-aosu.png"
+      },
+      "start_date": {
+        "year": 2013,
+        "month": 12,
+        "date": 14
+      },
+      "text": {
+        "headline": "40.91 Single",
+        "text": "Liberty Science Center Open 2013"
+      },
+      "background": {
+        "color": "#9B59B6"
+      },
+      "group": "4x4x4 Cube"
+    },
+    {
+      "media": {
+        "url": "http://www.rubiksplace.com/images/best-speedcubes/moyu-aosu.png",
+        "thumbnail": "http://www.rubiksplace.com/images/best-speedcubes/moyu-aosu.png"
+      },
+      "start_date": {
+        "year": 2014,
+        "month": 2,
+        "date": 1
+      },
+      "text": {
+        "headline": "39.56 Single",
+        "text": "CCFC Winter 2014"
+      },
+      "background": {
+        "color": "#9B59B6"
+      },
+      "group": "4x4x4 Cube"
+    },
+    {
+      "media": {
+        "url": "http://www.rubiksplace.com/images/best-speedcubes/moyu-aosu.png",
+        "thumbnail": "http://www.rubiksplace.com/images/best-speedcubes/moyu-aosu.png"
+      },
+      "start_date": {
+        "year": 2014,
+        "month": 2,
+        "date": 1
+      },
+      "text": {
+        "headline": "41.08 Average",
+        "text": "CCFC Winter 2014"
+      },
+      "background": {
+        "color": "#9B59B6"
+      },
+      "group": "4x4x4 Cube"
+    },
+    {
+      "media": {
+        "url": "http://www.rubiksplace.com/images/best-speedcubes/moyu-aosu.png",
+        "thumbnail": "http://www.rubiksplace.com/images/best-speedcubes/moyu-aosu.png"
+      },
+      "start_date": {
+        "year": 2014,
+        "month": 2,
+        "date": 15
+      },
+      "text": {
+        "headline": "38.12 Single",
+        "text": "Princeton Winter 2014"
+      },
+      "background": {
+        "color": "#9B59B6"
+      },
+      "group": "4x4x4 Cube"
+    },
+    {
+      "media": {
+        "url": "http://www.rubiksplace.com/images/best-speedcubes/moyu-aosu.png",
+        "thumbnail": "http://www.rubiksplace.com/images/best-speedcubes/moyu-aosu.png"
+      },
+      "start_date": {
+        "year": 2014,
+        "month": 3,
+        "date": 1
+      },
+      "text": {
+        "headline": "36.96 Single",
+        "text": "Williams Winter 2014"
+      },
+      "background": {
+        "color": "#9B59B6"
+      },
+      "group": "4x4x4 Cube"
+    },
+    {
+      "media": {
+        "url": "http://www.rubiksplace.com/images/best-speedcubes/moyu-aosu.png",
+        "thumbnail": "http://www.rubiksplace.com/images/best-speedcubes/moyu-aosu.png"
+      },
+      "start_date": {
+        "year": 2014,
+        "month": 3,
+        "date": 1
+      },
+      "text": {
+        "headline": "40.57 Average",
+        "text": "Williams Winter 2014"
+      },
+      "background": {
+        "color": "#9B59B6"
+      },
+      "group": "4x4x4 Cube"
+    },
+    {
+      "media": {
+        "url": "http://www.rubiksplace.com/images/best-speedcubes/moyu-aosu.png",
+        "thumbnail": "http://www.rubiksplace.com/images/best-speedcubes/moyu-aosu.png"
+      },
+      "start_date": {
+        "year": 2014,
+        "month": 4,
+        "date": 12
+      },
+      "text": {
+        "headline": "36.47 Single",
+        "text": "Lexington Spring 2014"
+      },
+      "background": {
+        "color": "#9B59B6"
+      },
+      "group": "4x4x4 Cube"
+    },
+    {
+      "media": {
+        "url": "http://www.rubiksplace.com/images/best-speedcubes/moyu-aosu.png",
+        "thumbnail": "http://www.rubiksplace.com/images/best-speedcubes/moyu-aosu.png"
+      },
+      "start_date": {
+        "year": 2014,
+        "month": 7,
+        "date": 5
+      },
+      "text": {
+        "headline": "40.17 Average",
+        "text": "Newport Cube Day 2014"
+      },
+      "background": {
+        "color": "#9B59B6"
+      },
+      "group": "4x4x4 Cube"
+    },
+    {
+      "media": {
+        "url": "http://www.rubiksplace.com/images/best-speedcubes/moyu-aosu.png",
+        "thumbnail": "http://www.rubiksplace.com/images/best-speedcubes/moyu-aosu.png"
+      },
+      "start_date": {
+        "year": 2014,
+        "month": 8,
+        "date": 3
+      },
+      "text": {
+        "headline": "36.04 Single",
+        "text": "US Nationals 2014"
+      },
+      "background": {
+        "color": "#9B59B6"
+      },
+      "group": "4x4x4 Cube"
+    },
+    {
+      "media": {
+        "url": "http://www.rubiksplace.com/images/best-speedcubes/moyu-aosu.png",
+        "thumbnail": "http://www.rubiksplace.com/images/best-speedcubes/moyu-aosu.png"
+      },
+      "start_date": {
+        "year": 2014,
+        "month": 9,
+        "date": 27
+      },
+      "text": {
+        "headline": "33.92 Single",
+        "text": "GCC Fall 2014"
+      },
+      "background": {
+        "color": "#9B59B6"
+      },
+      "group": "4x4x4 Cube"
+    },
+    {
+      "media": {
+        "url": "http://www.rubiksplace.com/images/best-speedcubes/moyu-aosu.png",
+        "thumbnail": "http://www.rubiksplace.com/images/best-speedcubes/moyu-aosu.png"
+      },
+      "start_date": {
+        "year": 2014,
+        "month": 9,
+        "date": 27
+      },
+      "text": {
+        "headline": "33.80 Average",
+        "text": "GCC Fall 2014"
+      },
+      "background": {
+        "color": "#9B59B6"
+      },
+      "group": "4x4x4 Cube"
+    },
+    {
+      "media": {
+        "url": "http://www.rubiksplace.com/images/best-speedcubes/moyu-aosu.png",
+        "thumbnail": "http://www.rubiksplace.com/images/best-speedcubes/moyu-aosu.png"
+      },
+      "start_date": {
+        "year": 2015,
+        "month": 4,
+        "date": 11
+      },
+      "text": {
+        "headline": "32.64 Single",
+        "text": "Lexington Spring 2015"
+      },
+      "background": {
+        "color": "#9B59B6"
+      },
+      "group": "4x4x4 Cube"
+    },
+    {
+      "media": {
+        "url": "http://www.rubiksplace.com/images/best-speedcubes/moyu-aosu.png",
+        "thumbnail": "http://www.rubiksplace.com/images/best-speedcubes/moyu-aosu.png"
+      },
+      "start_date": {
+        "year": 2015,
+        "month": 4,
+        "date": 11
+      },
+      "text": {
+        "headline": "35.06 Average",
+        "text": "Lexington Spring 2015"
+      },
+      "background": {
+        "color": "#9B59B6"
+      },
+      "group": "4x4x4 Cube"
+    },
+    {
+      "media": {
+        "url": "http://www.rubiksplace.com/images/best-speedcubes/yuxin-5x5-speedcube.png",
+        "thumbnail": "http://www.rubiksplace.com/images/best-speedcubes/yuxin-5x5-speedcube.png"
+      },
+      "start_date": {
+        "year": 2013,
+        "month": 1,
+        "date": 5
+      },
+      "text": {
+        "headline": "1:40.66 Single",
+        "text": "Antelope Valley Winter 2013"
+      },
+      "background": {
+        "color": "#2980B9"
+      },
+      "group": "5x5x5 Cube"
+    },
+    {
+      "media": {
+        "url": "http://www.rubiksplace.com/images/best-speedcubes/yuxin-5x5-speedcube.png",
+        "thumbnail": "http://www.rubiksplace.com/images/best-speedcubes/yuxin-5x5-speedcube.png"
+      },
+      "start_date": {
+        "year": 2013,
+        "month": 1,
+        "date": 5
+      },
+      "text": {
+        "headline": "1:50.65 Average",
+        "text": "Antelope Valley Winter 2013"
+      },
+      "background": {
+        "color": "#2980B9"
+      },
+      "group": "5x5x5 Cube"
+    },
+    {
+      "media": {
+        "url": "http://www.rubiksplace.com/images/best-speedcubes/yuxin-5x5-speedcube.png",
+        "thumbnail": "http://www.rubiksplace.com/images/best-speedcubes/yuxin-5x5-speedcube.png"
+      },
+      "start_date": {
+        "year": 2013,
+        "month": 7,
+        "date": 26
+      },
+      "text": {
+        "headline": "1:37.15 Single",
+        "text": "World Rubik's Cube Championship 2013"
+      },
+      "background": {
+        "color": "#2980B9"
+      },
+      "group": "5x5x5 Cube"
+    },
+    {
+      "media": {
+        "url": "http://www.rubiksplace.com/images/best-speedcubes/yuxin-5x5-speedcube.png",
+        "thumbnail": "http://www.rubiksplace.com/images/best-speedcubes/yuxin-5x5-speedcube.png"
+      },
+      "start_date": {
+        "year": 2013,
+        "month": 7,
+        "date": 26
+      },
+      "text": {
+        "headline": "1:45.10 Average",
+        "text": "World Rubik's Cube Championship 2013"
+      },
+      "background": {
+        "color": "#2980B9"
+      },
+      "group": "5x5x5 Cube"
+    },
+    {
+      "media": {
+        "url": "http://www.rubiksplace.com/images/best-speedcubes/yuxin-5x5-speedcube.png",
+        "thumbnail": "http://www.rubiksplace.com/images/best-speedcubes/yuxin-5x5-speedcube.png"
+      },
+      "start_date": {
+        "year": 2013,
+        "month": 10,
+        "date": 5
+      },
+      "text": {
+        "headline": "1:32.28 Single",
+        "text": "Harvard Fall 2013"
+      },
+      "background": {
+        "color": "#2980B9"
+      },
+      "group": "5x5x5 Cube"
+    },
+    {
+      "media": {
+        "url": "http://www.rubiksplace.com/images/best-speedcubes/yuxin-5x5-speedcube.png",
+        "thumbnail": "http://www.rubiksplace.com/images/best-speedcubes/yuxin-5x5-speedcube.png"
+      },
+      "start_date": {
+        "year": 2013,
+        "month": 10,
+        "date": 5
+      },
+      "text": {
+        "headline": "1:39.41 Average",
+        "text": "Harvard Fall 2013"
+      },
+      "background": {
+        "color": "#2980B9"
+      },
+      "group": "5x5x5 Cube"
+    },
+    {
+      "media": {
+        "url": "http://www.rubiksplace.com/images/best-speedcubes/yuxin-5x5-speedcube.png",
+        "thumbnail": "http://www.rubiksplace.com/images/best-speedcubes/yuxin-5x5-speedcube.png"
+      },
+      "start_date": {
+        "year": 2013,
+        "month": 10,
+        "date": 26
+      },
+      "text": {
+        "headline": "1:25.97 Single",
+        "text": "Yale Fall 2013"
+      },
+      "background": {
+        "color": "#2980B9"
+      },
+      "group": "5x5x5 Cube"
+    },
+    {
+      "media": {
+        "url": "http://www.rubiksplace.com/images/best-speedcubes/yuxin-5x5-speedcube.png",
+        "thumbnail": "http://www.rubiksplace.com/images/best-speedcubes/yuxin-5x5-speedcube.png"
+      },
+      "start_date": {
+        "year": 2013,
+        "month": 10,
+        "date": 26
+      },
+      "text": {
+        "headline": "1:32.78 Average",
+        "text": "Yale Fall 2013"
+      },
+      "background": {
+        "color": "#2980B9"
+      },
+      "group": "5x5x5 Cube"
+    },
+    {
+      "media": {
+        "url": "http://www.rubiksplace.com/images/best-speedcubes/yuxin-5x5-speedcube.png",
+        "thumbnail": "http://www.rubiksplace.com/images/best-speedcubes/yuxin-5x5-speedcube.png"
+      },
+      "start_date": {
+        "year": 2013,
+        "month": 12,
+        "date": 14
+      },
+      "text": {
+        "headline": "1:20.68 Single",
+        "text": "Liberty Science Center Open 2013"
+      },
+      "background": {
+        "color": "#2980B9"
+      },
+      "group": "5x5x5 Cube"
+    },
+    {
+      "media": {
+        "url": "http://www.rubiksplace.com/images/best-speedcubes/yuxin-5x5-speedcube.png",
+        "thumbnail": "http://www.rubiksplace.com/images/best-speedcubes/yuxin-5x5-speedcube.png"
+      },
+      "start_date": {
+        "year": 2013,
+        "month": 12,
+        "date": 14
+      },
+      "text": {
+        "headline": "1:30.17 Average",
+        "text": "Liberty Science Center Open 2013"
+      },
+      "background": {
+        "color": "#2980B9"
+      },
+      "group": "5x5x5 Cube"
+    },
+    {
+      "media": {
+        "url": "http://www.rubiksplace.com/images/best-speedcubes/yuxin-5x5-speedcube.png",
+        "thumbnail": "http://www.rubiksplace.com/images/best-speedcubes/yuxin-5x5-speedcube.png"
+      },
+      "start_date": {
+        "year": 2014,
+        "month": 7,
+        "date": 5
+      },
+      "text": {
+        "headline": "1:29.73 Average",
+        "text": "Newport Cube Day 2014"
+      },
+      "background": {
+        "color": "#2980B9"
+      },
+      "group": "5x5x5 Cube"
+    },
+    {
+      "media": {
+        "url": "http://www.rubiksplace.com/images/best-speedcubes/yuxin-5x5-speedcube.png",
+        "thumbnail": "http://www.rubiksplace.com/images/best-speedcubes/yuxin-5x5-speedcube.png"
+      },
+      "start_date": {
+        "year": 2014,
+        "month": 8,
+        "date": 2
+      },
+      "text": {
+        "headline": "1:29.52 Average",
+        "text": "US Nationals 2014"
+      },
+      "background": {
+        "color": "#2980B9"
+      },
+      "group": "5x5x5 Cube"
+    },
+    {
+      "media": {
+        "url": "http://www.rubiksplace.com/images/best-speedcubes/yuxin-5x5-speedcube.png",
+        "thumbnail": "http://www.rubiksplace.com/images/best-speedcubes/yuxin-5x5-speedcube.png"
+      },
+      "start_date": {
+        "year": 2014,
+        "month": 9,
+        "date": 27
+      },
+      "text": {
+        "headline": "1:11.38 Single",
+        "text": "GCC Fall 2014"
+      },
+      "background": {
+        "color": "#2980B9"
+      },
+      "group": "5x5x5 Cube"
+    },
+    {
+      "media": {
+        "url": "http://www.rubiksplace.com/images/best-speedcubes/yuxin-5x5-speedcube.png",
+        "thumbnail": "http://www.rubiksplace.com/images/best-speedcubes/yuxin-5x5-speedcube.png"
+      },
+      "start_date": {
+        "year": 2014,
+        "month": 9,
+        "date": 27
+      },
+      "text": {
+        "headline": "1:24.68 Average",
+        "text": "GCC Fall 2014"
+      },
+      "background": {
+        "color": "#2980B9"
+      },
+      "group": "5x5x5 Cube"
+    },
+    {
+      "media": {
+        "url": "http://www.rubiksplace.com/images/best-speedcubes/yuxin-5x5-speedcube.png",
+        "thumbnail": "http://www.rubiksplace.com/images/best-speedcubes/yuxin-5x5-speedcube.png"
+      },
+      "start_date": {
+        "year": 2014,
+        "month": 11,
+        "date": 8
+      },
+      "text": {
+        "headline": "1:23.47 Average",
+        "text": "Lexington Fall 2014"
+      },
+      "background": {
+        "color": "#2980B9"
+      },
+      "group": "5x5x5 Cube"
+    },
+    {
+      "media": {
+        "url": "http://www.rubiksplace.com/images/best-speedcubes/yuxin-5x5-speedcube.png",
+        "thumbnail": "http://www.rubiksplace.com/images/best-speedcubes/yuxin-5x5-speedcube.png"
+      },
+      "start_date": {
+        "year": 2015,
+        "month": 4,
+        "date": 11
+      },
+      "text": {
+        "headline": "1:20.15 Average",
+        "text": "Lexington Spring 2015"
+      },
+      "background": {
+        "color": "#2980B9"
+      },
+      "group": "5x5x5 Cube"
+    },
+    {
+      "media": {
+        "url": "http://www.rubiksplace.com/images/best-speedcubes/yuxin-5x5-speedcube.png",
+        "thumbnail": "http://www.rubiksplace.com/images/best-speedcubes/yuxin-5x5-speedcube.png"
+      },
+      "start_date": {
+        "year": 2015,
+        "month": 7,
+        "date": 31
+      },
+      "text": {
+        "headline": "1:19.87 Average",
+        "text": "US Nationals 2015"
+      },
+      "background": {
+        "color": "#2980B9"
+      },
+      "group": "5x5x5 Cube"
+    },
+    {
+      "media": {
+        "url": "http://www.rubiksplace.com/images/best-speedcubes/yuxin-5x5-speedcube.png",
+        "thumbnail": "http://www.rubiksplace.com/images/best-speedcubes/yuxin-5x5-speedcube.png"
+      },
+      "start_date": {
+        "year": 2015,
+        "month": 9,
+        "date": 12
+      },
+      "text": {
+        "headline": "1:17.79 Average",
+        "text": "Norwich Summer 2015"
+      },
+      "background": {
+        "color": "#2980B9"
+      },
+      "group": "5x5x5 Cube"
+    },
+    {
+      "media": {
+        "url": "http://www.rubiksplace.com/images/best-speedcubes/yuxin-5x5-speedcube.png",
+        "thumbnail": "http://www.rubiksplace.com/images/best-speedcubes/yuxin-5x5-speedcube.png"
+      },
+      "start_date": {
+        "year": 2016,
+        "month": 4,
+        "date": 10
+      },
+      "text": {
+        "headline": "1:11.21 Single",
+        "text": "Berkeley Spring 2015"
+      },
+      "background": {
+        "color": "#2980B9"
+      },
+      "group": "5x5x5 Cube"
+    },
+    {
+      "media": {
+        "url": "http://www.rubiksplace.com/images/best-speedcubes/yuxin-5x5-speedcube.png",
+        "thumbnail": "http://www.rubiksplace.com/images/best-speedcubes/yuxin-5x5-speedcube.png"
+      },
+      "start_date": {
+        "year": 2016,
+        "month": 7,
+        "date": 29
+      },
+      "text": {
+        "headline": "1:10.67 Single",
+        "text": "US Nationals 2016"
+      },
+      "background": {
+        "color": "#2980B9"
+      },
+      "group": "5x5x5 Cube"
+    },
+    {
+      "media": {
+        "url": "http://www.rubiksplace.com/images/best-speedcubes/moyu-aoshi-speedcube.png",
+        "thumbnail": "http://www.rubiksplace.com/images/best-speedcubes/moyu-aoshi-speedcube.png"
+      },
+      "start_date": {
+        "year": 2012,
+        "month": 10,
+        "date": 14
+      },
+      "text": {
+        "headline": "3:01.77 Single",
+        "text": "Diamond Bar Open 2012"
+      },
+      "background": {
+        "color": "#E74C3C"
+      },
+      "group": "6x6x6 Cube"
+    },
+    {
+      "media": {
+        "url": "http://www.rubiksplace.com/images/best-speedcubes/moyu-aoshi-speedcube.png",
+        "thumbnail": "http://www.rubiksplace.com/images/best-speedcubes/moyu-aoshi-speedcube.png"
+      },
+      "start_date": {
+        "year": 2012,
+        "month": 10,
+        "date": 14
+      },
+      "text": {
+        "headline": "3:10.11 Mean",
+        "text": "Diamond Bar Open 2012"
+      },
+      "background": {
+        "color": "#E74C3C"
+      },
+      "group": "6x6x6 Cube"
+    },
+    {
+      "media": {
+        "url": "http://www.rubiksplace.com/images/best-speedcubes/moyu-aoshi-speedcube.png",
+        "thumbnail": "http://www.rubiksplace.com/images/best-speedcubes/moyu-aoshi-speedcube.png"
+      },
+      "start_date": {
+        "year": 2013,
+        "month": 1,
+        "date": 5
+      },
+      "text": {
+        "headline": "2:59.78 Single",
+        "text": "Antelope Valley Winter 2013"
+      },
+      "background": {
+        "color": "#E74C3C"
+      },
+      "group": "6x6x6 Cube"
+    },
+    {
+      "media": {
+        "url": "http://www.rubiksplace.com/images/best-speedcubes/moyu-aoshi-speedcube.png",
+        "thumbnail": "http://www.rubiksplace.com/images/best-speedcubes/moyu-aoshi-speedcube.png"
+      },
+      "start_date": {
+        "year": 2013,
+        "month": 4,
+        "date": 27
+      },
+      "text": {
+        "headline": "2:56.43 Single",
+        "text": "Diamond Bar Spring Open 2013"
+      },
+      "background": {
+        "color": "#E74C3C"
+      },
+      "group": "6x6x6 Cube"
+    },
+    {
+      "media": {
+        "url": "http://www.rubiksplace.com/images/best-speedcubes/moyu-aoshi-speedcube.png",
+        "thumbnail": "http://www.rubiksplace.com/images/best-speedcubes/moyu-aoshi-speedcube.png"
+      },
+      "start_date": {
+        "year": 2013,
+        "month": 11,
+        "date": 23
+      },
+      "text": {
+        "headline": "2:30.28 Single",
+        "text": "Lexington Fall 2013"
+      },
+      "background": {
+        "color": "#E74C3C"
+      },
+      "group": "6x6x6 Cube"
+    },
+    {
+      "media": {
+        "url": "http://www.rubiksplace.com/images/best-speedcubes/moyu-aoshi-speedcube.png",
+        "thumbnail": "http://www.rubiksplace.com/images/best-speedcubes/moyu-aoshi-speedcube.png"
+      },
+      "start_date": {
+        "year": 2013,
+        "month": 11,
+        "date": 23
+      },
+      "text": {
+        "headline": "2:35.10 Mean",
+        "text": "Lexington Fall 2013"
+      },
+      "background": {
+        "color": "#E74C3C"
+      },
+      "group": "6x6x6 Cube"
+    },
+    {
+      "media": {
+        "url": "http://www.rubiksplace.com/images/best-speedcubes/moyu-aoshi-speedcube.png",
+        "thumbnail": "http://www.rubiksplace.com/images/best-speedcubes/moyu-aoshi-speedcube.png"
+      },
+      "start_date": {
+        "year": 2014,
+        "month": 8,
+        "date": 1
+      },
+      "text": {
+        "headline": "2:24.59 Single",
+        "text": "US Nationals 2014"
+      },
+      "background": {
+        "color": "#E74C3C"
+      },
+      "group": "6x6x6 Cube"
+    },
+    {
+      "media": {
+        "url": "http://www.rubiksplace.com/images/best-speedcubes/moyu-aoshi-speedcube.png",
+        "thumbnail": "http://www.rubiksplace.com/images/best-speedcubes/moyu-aoshi-speedcube.png"
+      },
+      "start_date": {
+        "year": 2015,
+        "month": 8,
+        "date": 2
+      },
+      "text": {
+        "headline": "2:18.11 Single",
+        "text": "US Nationals 2015"
+      },
+      "background": {
+        "color": "#E74C3C"
+      },
+      "group": "6x6x6 Cube"
+    },
+    {
+      "media": {
+        "url": "http://www.rubiksplace.com/images/best-speedcubes/moyu-aoshi-speedcube.png",
+        "thumbnail": "http://www.rubiksplace.com/images/best-speedcubes/moyu-aoshi-speedcube.png"
+      },
+      "start_date": {
+        "year": 2016,
+        "month": 4,
+        "date": 10
+      },
+      "text": {
+        "headline": "2:34.05 Mean",
+        "text": "Berkeley Spring 2016"
+      },
+      "background": {
+        "color": "#E74C3C"
+      },
+      "group": "6x6x6 Cube"
+    },
+    {
+      "media": {
+        "url": "http://www.rubiksplace.com/images/best-speedcubes/moyu-aoshi-speedcube.png",
+        "thumbnail": "http://www.rubiksplace.com/images/best-speedcubes/moyu-aoshi-speedcube.png"
+      },
+      "start_date": {
+        "year": 2016,
+        "month": 7,
+        "date": 23
+      },
+      "text": {
+        "headline": "2:15.50 Single",
+        "text": "Melrose Summer 2016"
+      },
+      "background": {
+        "color": "#E74C3C"
+      },
+      "group": "6x6x6 Cube"
+    },
+    {
+      "media": {
+        "url": "http://www.rubiksplace.com/images/best-speedcubes/moyu-aoshi-speedcube.png",
+        "thumbnail": "http://www.rubiksplace.com/images/best-speedcubes/moyu-aoshi-speedcube.png"
+      },
+      "start_date": {
+        "year": 2016,
+        "month": 7,
+        "date": 23
+      },
+      "text": {
+        "headline": "2:33.54 Mean",
+        "text": "Melrose Summer 2016"
+      },
+      "background": {
+        "color": "#E74C3C"
+      },
+      "group": "6x6x6 Cube"
+    },
+    {
+      "media": {
+        "url": "http://www.rubiksplace.com/images/best-speedcubes/moyu-aoshi-speedcube.png",
+        "thumbnail": "http://www.rubiksplace.com/images/best-speedcubes/moyu-aoshi-speedcube.png"
+      },
+      "start_date": {
+        "year": 2016,
+        "month": 7,
+        "date": 29
+      },
+      "text": {
+        "headline": "2:29.82 Mean",
+        "text": "US Nationals 2016"
+      },
+      "background": {
+        "color": "#E74C3C"
+      },
+      "group": "6x6x6 Cube"
+    },
+    {
+      "media": {
+        "url": "http://www.rubiksplace.com/images/best-speedcubes/moyu-aoshi-speedcube.png",
+        "thumbnail": "http://www.rubiksplace.com/images/best-speedcubes/moyu-aoshi-speedcube.png"
+      },
+      "start_date": {
+        "year": 2016,
+        "month": 7,
+        "date": 31
+      },
+      "text": {
+        "headline": "2:09.11 Single",
+        "text": "US Nationals 2016"
+      },
+      "background": {
+        "color": "#E74C3C"
+      },
+      "group": "6x6x6 Cube"
+    },
+    {
+      "media": {
+        "url": "http://www.rubiksplace.com/images/best-speedcubes/moyu-aoshi-speedcube.png",
+        "thumbnail": "http://www.rubiksplace.com/images/best-speedcubes/moyu-aoshi-speedcube.png"
+      },
+      "start_date": {
+        "year": 2016,
+        "month": 7,
+        "date": 31
+      },
+      "text": {
+        "headline": "2:22.67 Mean",
+        "text": "US Nationals 2016"
+      },
+      "background": {
+        "color": "#E74C3C"
+      },
+      "group": "6x6x6 Cube"
+    },
+    {
+      "media": {
+        "url": "http://www.rubiksplace.com/images/best-speedcubes/moyu-aofu-speedcube.png",
+        "thumbnail": "http://www.rubiksplace.com/images/best-speedcubes/moyu-aofu-speedcube.png"
+      },
+      "start_date": {
+        "year": 2013,
+        "month": 1,
+        "date": 5
+      },
+      "text": {
+        "headline": "4:58.93 Single",
+        "text": "Antelope Valley Winter 2013"
+      },
+      "background": {
+        "color": "#D4AC0D"
+      },
+      "group": "7x7x7 Cube"
+    },
+    {
+      "media": {
+        "url": "http://www.rubiksplace.com/images/best-speedcubes/moyu-aofu-speedcube.png",
+        "thumbnail": "http://www.rubiksplace.com/images/best-speedcubes/moyu-aofu-speedcube.png"
+      },
+      "start_date": {
+        "year": 2013,
+        "month": 1,
+        "date": 5
+      },
+      "text": {
+        "headline": "5:23.11 Mean",
+        "text": "Antelope Valley Winter 2013"
+      },
+      "background": {
+        "color": "#D4AC0D"
+      },
+      "group": "7x7x7 Cube"
+    },
+    {
+      "media": {
+        "url": "http://www.rubiksplace.com/images/best-speedcubes/moyu-aofu-speedcube.png",
+        "thumbnail": "http://www.rubiksplace.com/images/best-speedcubes/moyu-aofu-speedcube.png"
+      },
+      "start_date": {
+        "year": 2013,
+        "month": 7,
+        "date": 26
+      },
+      "text": {
+        "headline": "4:21.21 Single",
+        "text": "World Rubik's Cube Championship 2013"
+      },
+      "background": {
+        "color": "#D4AC0D"
+      },
+      "group": "7x7x7 Cube"
+    },
+    {
+      "media": {
+        "url": "http://www.rubiksplace.com/images/best-speedcubes/moyu-aofu-speedcube.png",
+        "thumbnail": "http://www.rubiksplace.com/images/best-speedcubes/moyu-aofu-speedcube.png"
+      },
+      "start_date": {
+        "year": 2013,
+        "month": 7,
+        "date": 26
+      },
+      "text": {
+        "headline": "4:47.05 Mean",
+        "text": "World Rubik's Cube Championship 2013"
+      },
+      "background": {
+        "color": "#D4AC0D"
+      },
+      "group": "7x7x7 Cube"
+    },
+    {
+      "media": {
+        "url": "http://www.rubiksplace.com/images/best-speedcubes/moyu-aofu-speedcube.png",
+        "thumbnail": "http://www.rubiksplace.com/images/best-speedcubes/moyu-aofu-speedcube.png"
+      },
+      "start_date": {
+        "year": 2014,
+        "month": 8,
+        "date": 1
+      },
+      "text": {
+        "headline": "3:59.67 Single",
+        "text": "US Nationals 2014"
+      },
+      "background": {
+        "color": "#D4AC0D"
+      },
+      "group": "7x7x7 Cube"
+    },
+    {
+      "media": {
+        "url": "http://www.rubiksplace.com/images/best-speedcubes/moyu-aofu-speedcube.png",
+        "thumbnail": "http://www.rubiksplace.com/images/best-speedcubes/moyu-aofu-speedcube.png"
+      },
+      "start_date": {
+        "year": 2014,
+        "month": 8,
+        "date": 1
+      },
+      "text": {
+        "headline": "4:19.43 Mean",
+        "text": "US Nationals 2014"
+      },
+      "background": {
+        "color": "#D4AC0D"
+      },
+      "group": "7x7x7 Cube"
+    },
+    {
+      "media": {
+        "url": "http://www.rubiksplace.com/images/best-speedcubes/moyu-aofu-speedcube.png",
+        "thumbnail": "http://www.rubiksplace.com/images/best-speedcubes/moyu-aofu-speedcube.png"
+      },
+      "start_date": {
+        "year": 2014,
+        "month": 8,
+        "date": 1
+      },
+      "text": {
+        "headline": "4:18.05 Mean",
+        "text": "US Nationals 2014"
+      },
+      "background": {
+        "color": "#D4AC0D"
+      },
+      "group": "7x7x7 Cube"
+    },
+    {
+      "media": {
+        "url": "http://www.rubiksplace.com/images/best-speedcubes/moyu-aofu-speedcube.png",
+        "thumbnail": "http://www.rubiksplace.com/images/best-speedcubes/moyu-aofu-speedcube.png"
+      },
+      "start_date": {
+        "year": 2014,
+        "month": 11,
+        "date": 8
+      },
+      "text": {
+        "headline": "3:51.58 Single",
+        "text": "Lexington Fall 2014"
+      },
+      "background": {
+        "color": "#D4AC0D"
+      },
+      "group": "7x7x7 Cube"
+    },
+    {
+      "media": {
+        "url": "http://www.rubiksplace.com/images/best-speedcubes/moyu-aofu-speedcube.png",
+        "thumbnail": "http://www.rubiksplace.com/images/best-speedcubes/moyu-aofu-speedcube.png"
+      },
+      "start_date": {
+        "year": 2014,
+        "month": 11,
+        "date": 8
+      },
+      "text": {
+        "headline": "4:12.36 Mean",
+        "text": "Lexington Fall 2014"
+      },
+      "background": {
+        "color": "#D4AC0D"
+      },
+      "group": "7x7x7 Cube"
+    },
+    {
+      "media": {
+        "url": "http://www.rubiksplace.com/images/best-speedcubes/moyu-aofu-speedcube.png",
+        "thumbnail": "http://www.rubiksplace.com/images/best-speedcubes/moyu-aofu-speedcube.png"
+      },
+      "start_date": {
+        "year": 2015,
+        "month": 6,
+        "date": 28
+      },
+      "text": {
+        "headline": "3:38.05 Single",
+        "text": "SoCal Supercomp 2015"
+      },
+      "background": {
+        "color": "#D4AC0D"
+      },
+      "group": "7x7x7 Cube"
+    },
+    {
+      "media": {
+        "url": "http://www.rubiksplace.com/images/best-speedcubes/moyu-aofu-speedcube.png",
+        "thumbnail": "http://www.rubiksplace.com/images/best-speedcubes/moyu-aofu-speedcube.png"
+      },
+      "start_date": {
+        "year": 2015,
+        "month": 6,
+        "date": 28
+      },
+      "text": {
+        "headline": "3:55.49 Mean",
+        "text": "SoCal Supercomp 2015"
+      },
+      "background": {
+        "color": "#D4AC0D"
+      },
+      "group": "7x7x7 Cube"
+    },
+    {
+      "media": {
+        "url": "http://www.rubiksplace.com/images/best-speedcubes/moyu-aofu-speedcube.png",
+        "thumbnail": "http://www.rubiksplace.com/images/best-speedcubes/moyu-aofu-speedcube.png"
+      },
+      "start_date": {
+        "year": 2015,
+        "month": 7,
+        "date": 31
+      },
+      "text": {
+        "headline": "3:46.45 Mean",
+        "text": "US Nationals 2015"
+      },
+      "background": {
+        "color": "#D4AC0D"
+      },
+      "group": "7x7x7 Cube"
+    },
+    {
+      "media": {
+        "url": "http://www.rubiksplace.com/images/best-speedcubes/moyu-aofu-speedcube.png",
+        "thumbnail": "http://www.rubiksplace.com/images/best-speedcubes/moyu-aofu-speedcube.png"
+      },
+      "start_date": {
+        "year": 2015,
+        "month": 10,
+        "date": 3
+      },
+      "text": {
+        "headline": "3:26.16 Single",
+        "text": "Phillips Exeter Cube Day 2015"
+      },
+      "background": {
+        "color": "#D4AC0D"
+      },
+      "group": "7x7x7 Cube"
+    },
+    {
+      "media": {
+        "url": "http://www.rubiksplace.com/images/best-speedcubes/moyu-aofu-speedcube.png",
+        "thumbnail": "http://www.rubiksplace.com/images/best-speedcubes/moyu-aofu-speedcube.png"
+      },
+      "start_date": {
+        "year": 2015,
+        "month": 10,
+        "date": 3
+      },
+      "text": {
+        "headline": "3:45.89 Mean",
+        "text": "Phillips Exeter Cube Day 2015"
+      },
+      "background": {
+        "color": "#D4AC0D"
+      },
+      "group": "7x7x7 Cube"
+    },
+    {
+      "media": {
+        "url": "http://www.rubiksplace.com/images/best-speedcubes/moyu-aofu-speedcube.png",
+        "thumbnail": "http://www.rubiksplace.com/images/best-speedcubes/moyu-aofu-speedcube.png"
+      },
+      "start_date": {
+        "year": 2016,
+        "month": 1,
+        "date": 30
+      },
+      "text": {
+        "headline": "3:44.04 Mean",
+        "text": "Sharon Winter 2016"
+      },
+      "background": {
+        "color": "#D4AC0D"
+      },
+      "group": "7x7x7 Cube"
+    },
+    {
+      "media": {
+        "url": "http://www.rubiksplace.com/images/moyu-aolong-speedcube.png",
+        "thumbnail": "http://www.rubiksplace.com/images/moyu-aolong-speedcube.png"
+      },
+      "start_date": {
+        "year": 2013,
+        "month": 2,
+        "date": 23
+      },
+      "text": {
+        "headline": "2:03.22 Single",
+        "text": "Caltech Winter Open 2013"
+      },
+      "background": {
+        "color": "#7F8C8D"
+      },
+      "group": "3x3x3 Blindfolded"
+    },
+    {
+      "media": {
+        "url": "http://www.rubiksplace.com/images/moyu-aolong-speedcube.png",
+        "thumbnail": "http://www.rubiksplace.com/images/moyu-aolong-speedcube.png"
+      },
+      "start_date": {
+        "year": 2013,
+        "month": 2,
+        "date": 23
+      },
+      "text": {
+        "headline": "2:06.44 Mean",
+        "text": "Caltech Winter Open 2013"
+      },
+      "background": {
+        "color": "#7F8C8D"
+      },
+      "group": "3x3x3 Blindfolded"
+    },
+    {
+      "media": {
+        "url": "http://www.rubiksplace.com/images/moyu-aolong-speedcube.png",
+        "thumbnail": "http://www.rubiksplace.com/images/moyu-aolong-speedcube.png"
+      },
+      "start_date": {
+        "year": 2013,
+        "month": 4,
+        "date": 27
+      },
+      "text": {
+        "headline": "56.88 Single",
+        "text": "Diamond Bar Spring Open 2013"
+      },
+      "background": {
+        "color": "#7F8C8D"
+      },
+      "group": "3x3x3 Blindfolded"
+    },
+    {
+      "media": {
+        "url": "http://www.rubiksplace.com/images/moyu-aolong-speedcube.png",
+        "thumbnail": "http://www.rubiksplace.com/images/moyu-aolong-speedcube.png"
+      },
+      "start_date": {
+        "year": 2013,
+        "month": 7,
+        "date": 26
+      },
+      "text": {
+        "headline": "42.81 Single",
+        "text": "World Rubik's Cube Championship 2013"
+      },
+      "background": {
+        "color": "#7F8C8D"
+      },
+      "group": "3x3x3 Blindfolded"
+    },
+    {
+      "media": {
+        "url": "http://www.rubiksplace.com/images/moyu-aolong-speedcube.png",
+        "thumbnail": "http://www.rubiksplace.com/images/moyu-aolong-speedcube.png"
+      },
+      "start_date": {
+        "year": 2013,
+        "month": 8,
+        "date": 17
+      },
+      "text": {
+        "headline": "41.66 Single",
+        "text": "Nisei Week 2013"
+      },
+      "background": {
+        "color": "#7F8C8D"
+      },
+      "group": "3x3x3 Blindfolded"
+    },
+    {
+      "media": {
+        "url": "http://www.rubiksplace.com/images/moyu-aolong-speedcube.png",
+        "thumbnail": "http://www.rubiksplace.com/images/moyu-aolong-speedcube.png"
+      },
+      "start_date": {
+        "year": 2013,
+        "month": 9,
+        "date": 21
+      },
+      "text": {
+        "headline": "32.44 Single",
+        "text": "CCFC Fall 2013"
+      },
+      "background": {
+        "color": "#7F8C8D"
+      },
+      "group": "3x3x3 Blindfolded"
+    },
+    {
+      "media": {
+        "url": "http://www.rubiksplace.com/images/moyu-aolong-speedcube.png",
+        "thumbnail": "http://www.rubiksplace.com/images/moyu-aolong-speedcube.png"
+      },
+      "start_date": {
+        "year": 2013,
+        "month": 9,
+        "date": 21
+      },
+      "text": {
+        "headline": "39.54 Mean (Former NAR)",
+        "text": "CCFC Fall 2013"
+      },
+      "background": {
+        "color": "#7F8C8D"
+      },
+      "group": "3x3x3 Blindfolded"
+    },
+    {
+      "media": {
+        "url": "http://www.rubiksplace.com/images/moyu-aolong-speedcube.png",
+        "thumbnail": "http://www.rubiksplace.com/images/moyu-aolong-speedcube.png"
+      },
+      "start_date": {
+        "year": 2013,
+        "month": 4,
+        "date": 27
+      },
+      "text": {
+        "headline": "46 Single",
+        "text": "Diamond Bar Spring Open 2013"
+      },
+      "background": {
+        "color": "#1F618D"
+      },
+      "group": "3x3x3 Fewest Moves"
+    },
+    {
+      "media": {
+        "url": "http://www.rubiksplace.com/images/moyu-aolong-speedcube.png",
+        "thumbnail": "http://www.rubiksplace.com/images/moyu-aolong-speedcube.png"
+      },
+      "start_date": {
+        "year": 2013,
+        "month": 7,
+        "date": 27
+      },
+      "text": {
+        "headline": "46 Single",
+        "text": "World Rubik's Cube Championship 2013"
+      },
+      "background": {
+        "color": "#1F618D"
+      },
+      "group": "3x3x3 Fewest Moves"
+    },
+    {
+      "media": {
+        "url": "http://www.rubiksplace.com/images/moyu-aolong-speedcube.png",
+        "thumbnail": "http://www.rubiksplace.com/images/moyu-aolong-speedcube.png"
+      },
+      "start_date": {
+        "year": 2014,
+        "month": 5,
+        "date": 18
+      },
+      "text": {
+        "headline": "40 Single",
+        "text": "Caltech Spring Open 2014"
+      },
+      "background": {
+        "color": "#1F618D"
+      },
+      "group": "3x3x3 Fewest Moves"
+    },
+    {
+      "media": {
+        "url": "http://www.rubiksplace.com/images/moyu-aolong-speedcube.png",
+        "thumbnail": "http://www.rubiksplace.com/images/moyu-aolong-speedcube.png"
+      },
+      "start_date": {
+        "year": 2014,
+        "month": 8,
+        "date": 3
+      },
+      "text": {
+        "headline": "41.33 Mean",
+        "text": "US Nationals 2014"
+      },
+      "background": {
+        "color": "#1F618D"
+      },
+      "group": "3x3x3 Fewest Moves"
+    },
+    {
+      "media": {
+        "url": "http://www.rubiksplace.com/images/moyu-aolong-speedcube.png",
+        "thumbnail": "http://www.rubiksplace.com/images/moyu-aolong-speedcube.png"
+      },
+      "start_date": {
+        "year": 2014,
+        "month": 10,
+        "date": 26
+      },
+      "text": {
+        "headline": "30 Single",
+        "text": "FMC USA 2014"
+      },
+      "background": {
+        "color": "#1F618D"
+      },
+      "group": "3x3x3 Fewest Moves"
+    },
+    {
+      "media": {
+        "url": "http://www.rubiksplace.com/images/moyu-aolong-speedcube.png",
+        "thumbnail": "http://www.rubiksplace.com/images/moyu-aolong-speedcube.png"
+      },
+      "start_date": {
+        "year": 2014,
+        "month": 10,
+        "date": 26
+      },
+      "text": {
+        "headline": "34.33 Mean",
+        "text": "FMC USA 2014"
+      },
+      "background": {
+        "color": "#1F618D"
+      },
+      "group": "3x3x3 Fewest Moves"
+    },
+    {
+      "media": {
+        "url": "http://www.rubiksplace.com/images/moyu-aolong-speedcube.png",
+        "thumbnail": "http://www.rubiksplace.com/images/moyu-aolong-speedcube.png"
+      },
+      "start_date": {
+        "year": 2015,
+        "month": 6,
+        "date": 27
+      },
+      "text": {
+        "headline": "26 Single",
+        "text": "SoCal Supercomp 2015"
+      },
+      "background": {
+        "color": "#1F618D"
+      },
+      "group": "3x3x3 Fewest Moves"
+    },
+    {
+      "media": {
+        "url": "http://www.rubiksplace.com/images/moyu-aolong-speedcube.png",
+        "thumbnail": "http://www.rubiksplace.com/images/moyu-aolong-speedcube.png"
+      },
+      "start_date": {
+        "year": 2015,
+        "month": 7,
+        "date": 31
+      },
+      "text": {
+        "headline": "23 Single",
+        "text": "US Nationals 2015"
+      },
+      "background": {
+        "color": "#1F618D"
+      },
+      "group": "3x3x3 Fewest Moves"
+    },
+    {
+      "media": {
+        "url": "http://www.rubiksplace.com/images/moyu-aolong-speedcube.png",
+        "thumbnail": "http://www.rubiksplace.com/images/moyu-aolong-speedcube.png"
+      },
+      "start_date": {
+        "year": 2015,
+        "month": 7,
+        "date": 31
+      },
+      "text": {
+        "headline": "32.67 Mean",
+        "text": "US Nationals 2015"
+      },
+      "background": {
+        "color": "#1F618D"
+      },
+      "group": "3x3x3 Fewest Moves"
+    },
+    {
+      "media": {
+        "url": "http://www.rubiksplace.com/images/moyu-aolong-speedcube.png",
+        "thumbnail": "http://www.rubiksplace.com/images/moyu-aolong-speedcube.png"
+      },
+      "start_date": {
+        "year": 2015,
+        "month": 10,
+        "date": 11
+      },
+      "text": {
+        "headline": "19 Single (WR)",
+        "text": "Irvine Fall 2015"
+      },
+      "background": {
+        "color": "#1F618D"
+      },
+      "group": "3x3x3 Fewest Moves"
+    },
+    {
+      "media": {
+        "url": "http://www.rubiksplace.com/images/moyu-aolong-speedcube.png",
+        "thumbnail": "http://www.rubiksplace.com/images/moyu-aolong-speedcube.png"
+      },
+      "start_date": {
+        "year": 2016,
+        "month": 6,
+        "date": 19
+      },
+      "text": {
+        "headline": "30.67 Mean",
+        "text": "Mental Breakdown 2016"
+      },
+      "background": {
+        "color": "#1F618D"
+      },
+      "group": "3x3x3 Fewest Moves"
+    },
+    {
+      "media": {
+        "url": "http://www.rubiksplace.com/images/moyu-aolong-speedcube.png",
+        "thumbnail": "http://www.rubiksplace.com/images/moyu-aolong-speedcube.png"
+      },
+      "start_date": {
+        "year": 2012,
+        "month": 2,
+        "date": 11
+      },
+      "text": {
+        "headline": "39.37 Single",
+        "text": "Caltech Winter 2012"
+      },
+      "background": {
+        "color": "#884EA0"
+      },
+      "group": "3x3x3 One-Handed"
+    },
+    {
+      "media": {
+        "url": "http://www.rubiksplace.com/images/moyu-aolong-speedcube.png",
+        "thumbnail": "http://www.rubiksplace.com/images/moyu-aolong-speedcube.png"
+      },
+      "start_date": {
+        "year": 2012,
+        "month": 2,
+        "date": 11
+      },
+      "text": {
+        "headline": "47.33 Average",
+        "text": "Caltech Winter 2012"
+      },
+      "background": {
+        "color": "#884EA0"
+      },
+      "group": "3x3x3 One-Handed"
+    },
+    {
+      "media": {
+        "url": "http://www.rubiksplace.com/images/moyu-aolong-speedcube.png",
+        "thumbnail": "http://www.rubiksplace.com/images/moyu-aolong-speedcube.png"
+      },
+      "start_date": {
+        "year": 2012,
+        "month": 5,
+        "date": 26
+      },
+      "text": {
+        "headline": "31.30 Single",
+        "text": "Caltech Spring 2012"
+      },
+      "background": {
+        "color": "#884EA0"
+      },
+      "group": "3x3x3 One-Handed"
+    },
+    {
+      "media": {
+        "url": "http://www.rubiksplace.com/images/moyu-aolong-speedcube.png",
+        "thumbnail": "http://www.rubiksplace.com/images/moyu-aolong-speedcube.png"
+      },
+      "start_date": {
+        "year": 2012,
+        "month": 5,
+        "date": 26
+      },
+      "text": {
+        "headline": "37.05 Average",
+        "text": "Caltech Spring 2012"
+      },
+      "background": {
+        "color": "#884EA0"
+      },
+      "group": "3x3x3 One-Handed"
+    },
+    {
+      "media": {
+        "url": "http://www.rubiksplace.com/images/moyu-aolong-speedcube.png",
+        "thumbnail": "http://www.rubiksplace.com/images/moyu-aolong-speedcube.png"
+      },
+      "start_date": {
+        "year": 2012,
+        "month": 10,
+        "date": 14
+      },
+      "text": {
+        "headline": "22.88 Single",
+        "text": "Diamond Bar Open 2012"
+      },
+      "background": {
+        "color": "#884EA0"
+      },
+      "group": "3x3x3 One-Handed"
+    },
+    {
+      "media": {
+        "url": "http://www.rubiksplace.com/images/moyu-aolong-speedcube.png",
+        "thumbnail": "http://www.rubiksplace.com/images/moyu-aolong-speedcube.png"
+      },
+      "start_date": {
+        "year": 2012,
+        "month": 10,
+        "date": 14
+      },
+      "text": {
+        "headline": "26.11 Average",
+        "text": "Diamond Bar Open 2012"
+      },
+      "background": {
+        "color": "#884EA0"
+      },
+      "group": "3x3x3 One-Handed"
+    },
+    {
+      "media": {
+        "url": "http://www.rubiksplace.com/images/moyu-aolong-speedcube.png",
+        "thumbnail": "http://www.rubiksplace.com/images/moyu-aolong-speedcube.png"
+      },
+      "start_date": {
+        "year": 2012,
+        "month": 10,
+        "date": 14
+      },
+      "text": {
+        "headline": "20.61 Single",
+        "text": "Diamond Bar Open 2012"
+      },
+      "background": {
+        "color": "#884EA0"
+      },
+      "group": "3x3x3 One-Handed"
+    },
+    {
+      "media": {
+        "url": "http://www.rubiksplace.com/images/moyu-aolong-speedcube.png",
+        "thumbnail": "http://www.rubiksplace.com/images/moyu-aolong-speedcube.png"
+      },
+      "start_date": {
+        "year": 2012,
+        "month": 10,
+        "date": 14
+      },
+      "text": {
+        "headline": "24.08 Average",
+        "text": "Diamond Bar Open 2012"
+      },
+      "background": {
+        "color": "#884EA0"
+      },
+      "group": "3x3x3 One-Handed"
+    },
+    {
+      "media": {
+        "url": "http://www.rubiksplace.com/images/moyu-aolong-speedcube.png",
+        "thumbnail": "http://www.rubiksplace.com/images/moyu-aolong-speedcube.png"
+      },
+      "start_date": {
+        "year": 2013,
+        "month": 4,
+        "date": 27
+      },
+      "text": {
+        "headline": "15.30 Single",
+        "text": "Diamond Bar Spring Open 2013"
+      },
+      "background": {
+        "color": "#884EA0"
+      },
+      "group": "3x3x3 One-Handed"
+    },
+    {
+      "media": {
+        "url": "http://www.rubiksplace.com/images/moyu-aolong-speedcube.png",
+        "thumbnail": "http://www.rubiksplace.com/images/moyu-aolong-speedcube.png"
+      },
+      "start_date": {
+        "year": 2013,
+        "month": 5,
+        "date": 25
+      },
+      "text": {
+        "headline": "22.57 Average",
+        "text": "Caltech Spring Open 2013"
+      },
+      "background": {
+        "color": "#884EA0"
+      },
+      "group": "3x3x3 One-Handed"
+    },
+    {
+      "media": {
+        "url": "http://www.rubiksplace.com/images/moyu-aolong-speedcube.png",
+        "thumbnail": "http://www.rubiksplace.com/images/moyu-aolong-speedcube.png"
+      },
+      "start_date": {
+        "year": 2013,
+        "month": 6,
+        "date": 8
+      },
+      "text": {
+        "headline": "21.08 Average",
+        "text": "San Diego Summer Splash 2013"
+      },
+      "background": {
+        "color": "#884EA0"
+      },
+      "group": "3x3x3 One-Handed"
+    },
+    {
+      "media": {
+        "url": "http://www.rubiksplace.com/images/moyu-aolong-speedcube.png",
+        "thumbnail": "http://www.rubiksplace.com/images/moyu-aolong-speedcube.png"
+      },
+      "start_date": {
+        "year": 2013,
+        "month": 9,
+        "date": 21
+      },
+      "text": {
+        "headline": "20.75 Average",
+        "text": "CCFC Fall 2013"
+      },
+      "background": {
+        "color": "#884EA0"
+      },
+      "group": "3x3x3 One-Handed"
+    },
+    {
+      "media": {
+        "url": "http://www.rubiksplace.com/images/moyu-aolong-speedcube.png",
+        "thumbnail": "http://www.rubiksplace.com/images/moyu-aolong-speedcube.png"
+      },
+      "start_date": {
+        "year": 2013,
+        "month": 10,
+        "date": 26
+      },
+      "text": {
+        "headline": "19.15 Average",
+        "text": "Yale Fall 2013"
+      },
+      "background": {
+        "color": "#884EA0"
+      },
+      "group": "3x3x3 One-Handed"
+    },
+    {
+      "media": {
+        "url": "http://www.rubiksplace.com/images/moyu-aolong-speedcube.png",
+        "thumbnail": "http://www.rubiksplace.com/images/moyu-aolong-speedcube.png"
+      },
+      "start_date": {
+        "year": 2014,
+        "month": 3,
+        "date": 1
+      },
+      "text": {
+        "headline": "18.55 Average",
+        "text": "Williams Winter 2014"
+      },
+      "background": {
+        "color": "#884EA0"
+      },
+      "group": "3x3x3 One-Handed"
+    },
+    {
+      "media": {
+        "url": "http://www.rubiksplace.com/images/moyu-aolong-speedcube.png",
+        "thumbnail": "http://www.rubiksplace.com/images/moyu-aolong-speedcube.png"
+      },
+      "start_date": {
+        "year": 2014,
+        "month": 3,
+        "date": 1
+      },
+      "text": {
+        "headline": "18.05 Average",
+        "text": "Williams Winter 2014"
+      },
+      "background": {
+        "color": "#884EA0"
+      },
+      "group": "3x3x3 One-Handed"
+    },
+    {
+      "media": {
+        "url": "http://www.rubiksplace.com/images/moyu-aolong-speedcube.png",
+        "thumbnail": "http://www.rubiksplace.com/images/moyu-aolong-speedcube.png"
+      },
+      "start_date": {
+        "year": 2014,
+        "month": 4,
+        "date": 12
+      },
+      "text": {
+        "headline": "14.58 Single",
+        "text": "Lexington Spring 2014"
+      },
+      "background": {
+        "color": "#884EA0"
+      },
+      "group": "3x3x3 One-Handed"
+    },
+    {
+      "media": {
+        "url": "http://www.rubiksplace.com/images/moyu-aolong-speedcube.png",
+        "thumbnail": "http://www.rubiksplace.com/images/moyu-aolong-speedcube.png"
+      },
+      "start_date": {
+        "year": 2014,
+        "month": 4,
+        "date": 12
+      },
+      "text": {
+        "headline": "17.44 Average",
+        "text": "Lexington Spring 2014"
+      },
+      "background": {
+        "color": "#884EA0"
+      },
+      "group": "3x3x3 One-Handed"
+    },
+    {
+      "media": {
+        "url": "http://www.rubiksplace.com/images/moyu-aolong-speedcube.png",
+        "thumbnail": "http://www.rubiksplace.com/images/moyu-aolong-speedcube.png"
+      },
+      "start_date": {
+        "year": 2014,
+        "month": 5,
+        "date": 17
+      },
+      "text": {
+        "headline": "14.18 Single",
+        "text": "Caltech Spring Open 2014"
+      },
+      "background": {
+        "color": "#884EA0"
+      },
+      "group": "3x3x3 One-Handed"
+    },
+    {
+      "media": {
+        "url": "http://www.rubiksplace.com/images/moyu-aolong-speedcube.png",
+        "thumbnail": "http://www.rubiksplace.com/images/moyu-aolong-speedcube.png"
+      },
+      "start_date": {
+        "year": 2014,
+        "month": 7,
+        "date": 5
+      },
+      "text": {
+        "headline": "14.11 Single",
+        "text": "Newport Cube Day 2014"
+      },
+      "background": {
+        "color": "#884EA0"
+      },
+      "group": "3x3x3 One-Handed"
+    },
+    {
+      "media": {
+        "url": "http://www.rubiksplace.com/images/moyu-aolong-speedcube.png",
+        "thumbnail": "http://www.rubiksplace.com/images/moyu-aolong-speedcube.png"
+      },
+      "start_date": {
+        "year": 2014,
+        "month": 12,
+        "date": 6
+      },
+      "text": {
+        "headline": "13.44 Single",
+        "text": "MIT Fall 2014"
+      },
+      "background": {
+        "color": "#884EA0"
+      },
+      "group": "3x3x3 One-Handed"
+    },
+    {
+      "media": {
+        "url": "http://www.rubiksplace.com/images/moyu-aolong-speedcube.png",
+        "thumbnail": "http://www.rubiksplace.com/images/moyu-aolong-speedcube.png"
+      },
+      "start_date": {
+        "year": 2015,
+        "month": 8,
+        "date": 1
+      },
+      "text": {
+        "headline": "11.45 Single",
+        "text": "US Nationals 2015"
+      },
+      "background": {
+        "color": "#884EA0"
+      },
+      "group": "3x3x3 One-Handed"
+    },
+    {
+      "media": {
+        "url": "http://www.rubiksplace.com/images/moyu-aolong-speedcube.png",
+        "thumbnail": "http://www.rubiksplace.com/images/moyu-aolong-speedcube.png"
+      },
+      "start_date": {
+        "year": 2016,
+        "month": 2,
+        "date": 6
+      },
+      "text": {
+        "headline": "16.95 Average",
+        "text": "Princeton Winter 2016"
+      },
+      "background": {
+        "color": "#884EA0"
+      },
+      "group": "3x3x3 One-Handed"
+    },
+    {
+      "media": {
+        "url": "http://www.rubiksplace.com/images/moyu-aolong-speedcube.png",
+        "thumbnail": "http://www.rubiksplace.com/images/moyu-aolong-speedcube.png"
+      },
+      "start_date": {
+        "year": 2016,
+        "month": 6,
+        "date": 18
+      },
+      "text": {
+        "headline": "3:01.10 Single",
+        "text": "Mental Breakdown 2016"
+      },
+      "background": {
+        "color": "#CA6F1E"
+      },
+      "group": "3x3x3 With Feet"
+    },
+    {
+      "media": {
+        "url": "http://www.rubiksplace.com/images/moyu-aolong-speedcube.png",
+        "thumbnail": "http://www.rubiksplace.com/images/moyu-aolong-speedcube.png"
+      },
+      "start_date": {
+        "year": 2016,
+        "month": 6,
+        "date": 18
+      },
+      "text": {
+        "headline": "5:32.14 Average",
+        "text": "Mental Breakdown 2016"
+      },
+      "background": {
+        "color": "#CA6F1E"
+      },
+      "group": "3x3x3 With Feet"
+    },
+    {
+      "media": {
+        "url": "http://www.puzl.co.uk/images/M_SH_500.jpg",
+        "thumbnail": "http://www.puzl.co.uk/images/M_SH_500.jpg"
+      },
+      "start_date": {
+        "year": 2013,
+        "month": 11,
+        "date": 23
+      },
+      "text": {
+        "headline": "2:29.03 Single",
+        "text": "Lexington Fall 2013"
+      },
+      "background": {
+        "color": "#229954"
+      },
+      "group": "Megaminx"
+    },
+    {
+      "media": {
+        "url": "http://www.puzl.co.uk/images/M_SH_500.jpg",
+        "thumbnail": "http://www.puzl.co.uk/images/M_SH_500.jpg"
+      },
+      "start_date": {
+        "year": 2013,
+        "month": 11,
+        "date": 23
+      },
+      "text": {
+        "headline": "2:35.27 Average",
+        "text": "Lexington Fall 2013"
+      },
+      "background": {
+        "color": "#229954"
+      },
+      "group": "Megaminx"
+    },
+    {
+      "media": {
+        "url": "http://www.puzl.co.uk/images/M_SH_500.jpg",
+        "thumbnail": "http://www.puzl.co.uk/images/M_SH_500.jpg"
+      },
+      "start_date": {
+        "year": 2014,
+        "month": 2,
+        "date": 1
+      },
+      "text": {
+        "headline": "2:22.39 Single",
+        "text": "CCFC Winter 2014"
+      },
+      "background": {
+        "color": "#229954"
+      },
+      "group": "Megaminx"
+    },
+    {
+      "media": {
+        "url": "http://www.puzl.co.uk/images/M_SH_500.jpg",
+        "thumbnail": "http://www.puzl.co.uk/images/M_SH_500.jpg"
+      },
+      "start_date": {
+        "year": 2014,
+        "month": 5,
+        "date": 17
+      },
+      "text": {
+        "headline": "2:07.19 Single",
+        "text": "Caltech Spring Open 2014"
+      },
+      "background": {
+        "color": "#229954"
+      },
+      "group": "Megaminx"
+    },
+    {
+      "media": {
+        "url": "http://www.puzl.co.uk/images/M_SH_500.jpg",
+        "thumbnail": "http://www.puzl.co.uk/images/M_SH_500.jpg"
+      },
+      "start_date": {
+        "year": 2014,
+        "month": 8,
+        "date": 2
+      },
+      "text": {
+        "headline": "1:57.88 Single",
+        "text": "US Nationals 2014"
+      },
+      "background": {
+        "color": "#229954"
+      },
+      "group": "Megaminx"
+    },
+    {
+      "media": {
+        "url": "http://www.puzl.co.uk/images/M_SH_500.jpg",
+        "thumbnail": "http://www.puzl.co.uk/images/M_SH_500.jpg"
+      },
+      "start_date": {
+        "year": 2014,
+        "month": 8,
+        "date": 2
+      },
+      "text": {
+        "headline": "2:30.51 Average",
+        "text": "US Nationals 2014"
+      },
+      "background": {
+        "color": "#229954"
+      },
+      "group": "Megaminx"
+    },
+    {
+      "media": {
+        "url": "http://www.puzl.co.uk/images/M_SH_500.jpg",
+        "thumbnail": "http://www.puzl.co.uk/images/M_SH_500.jpg"
+      },
+      "start_date": {
+        "year": 2015,
+        "month": 6,
+        "date": 28
+      },
+      "text": {
+        "headline": "1:33.83 Single",
+        "text": "SoCal Supercomp 2015"
+      },
+      "background": {
+        "color": "#229954"
+      },
+      "group": "Megaminx"
+    },
+    {
+      "media": {
+        "url": "http://www.puzl.co.uk/images/M_SH_500.jpg",
+        "thumbnail": "http://www.puzl.co.uk/images/M_SH_500.jpg"
+      },
+      "start_date": {
+        "year": 2015,
+        "month": 6,
+        "date": 28
+      },
+      "text": {
+        "headline": "1:42.06 Average",
+        "text": "SoCal Supercomp 2015"
+      },
+      "background": {
+        "color": "#229954"
+      },
+      "group": "Megaminx"
+    },
+    {
+      "media": {
+        "url": "http://www.puzl.co.uk/images/M_SH_500.jpg",
+        "thumbnail": "http://www.puzl.co.uk/images/M_SH_500.jpg"
+      },
+      "start_date": {
+        "year": 2015,
+        "month": 7,
+        "date": 31
+      },
+      "text": {
+        "headline": "1:28.45 Single",
+        "text": "US Nationals 2015"
+      },
+      "background": {
+        "color": "#229954"
+      },
+      "group": "Megaminx"
+    },
+    {
+      "media": {
+        "url": "http://www.puzl.co.uk/images/M_SH_500.jpg",
+        "thumbnail": "http://www.puzl.co.uk/images/M_SH_500.jpg"
+      },
+      "start_date": {
+        "year": 2015,
+        "month": 7,
+        "date": 31
+      },
+      "text": {
+        "headline": "1:41.40 Single",
+        "text": "US Nationals 2015"
+      },
+      "background": {
+        "color": "#229954"
+      },
+      "group": "Megaminx"
+    },
+    {
+      "media": {
+        "url": "http://www.puzl.co.uk/images/M_SH_500.jpg",
+        "thumbnail": "http://www.puzl.co.uk/images/M_SH_500.jpg"
+      },
+      "start_date": {
+        "year": 2015,
+        "month": 11,
+        "date": 15
+      },
+      "text": {
+        "headline": "1:36.85 Average",
+        "text": "Northeastern Fall 2015"
+      },
+      "background": {
+        "color": "#229954"
+      },
+      "group": "Megaminx"
+    },
+    {
+      "media": {
+        "url": "http://www.oz-cubes.com.au/uploads/2/1/7/2/21729846/s841772147385190696_p19_i1_w450.jpeg",
+        "thumbnail": "http://www.oz-cubes.com.au/uploads/2/1/7/2/21729846/s841772147385190696_p19_i1_w450.jpeg"
+      },
+      "start_date": {
+        "year": 2013,
+        "month": 9,
+        "date": 21
+      },
+      "text": {
+        "headline": "24.25 Single",
+        "text": "CCFC Fall 2013"
+      },
+      "background": {
+        "color": "#566573"
+      },
+      "group": "Pyraminx"
+    },
+    {
+      "media": {
+        "url": "http://www.oz-cubes.com.au/uploads/2/1/7/2/21729846/s841772147385190696_p19_i1_w450.jpeg",
+        "thumbnail": "http://www.oz-cubes.com.au/uploads/2/1/7/2/21729846/s841772147385190696_p19_i1_w450.jpeg"
+      },
+      "start_date": {
+        "year": 2013,
+        "month": 11,
+        "date": 23
+      },
+      "text": {
+        "headline": "13.67 Single",
+        "text": "Lexington Fall 2013"
+      },
+      "background": {
+        "color": "#566573"
+      },
+      "group": "Pyraminx"
+    },
+    {
+      "media": {
+        "url": "http://www.oz-cubes.com.au/uploads/2/1/7/2/21729846/s841772147385190696_p19_i1_w450.jpeg",
+        "thumbnail": "http://www.oz-cubes.com.au/uploads/2/1/7/2/21729846/s841772147385190696_p19_i1_w450.jpeg"
+      },
+      "start_date": {
+        "year": 2013,
+        "month": 11,
+        "date": 23
+      },
+      "text": {
+        "headline": "18.76 Average",
+        "text": "Lexington Fall 2013"
+      },
+      "background": {
+        "color": "#566573"
+      },
+      "group": "Pyraminx"
+    },
+    {
+      "media": {
+        "url": "http://www.oz-cubes.com.au/uploads/2/1/7/2/21729846/s841772147385190696_p19_i1_w450.jpeg",
+        "thumbnail": "http://www.oz-cubes.com.au/uploads/2/1/7/2/21729846/s841772147385190696_p19_i1_w450.jpeg"
+      },
+      "start_date": {
+        "year": 2014,
+        "month": 3,
+        "date": 1
+      },
+      "text": {
+        "headline": "7.38 Single",
+        "text": "Williams Winter 2014"
+      },
+      "background": {
+        "color": "#566573"
+      },
+      "group": "Pyraminx"
+    },
+    {
+      "media": {
+        "url": "http://www.oz-cubes.com.au/uploads/2/1/7/2/21729846/s841772147385190696_p19_i1_w450.jpeg",
+        "thumbnail": "http://www.oz-cubes.com.au/uploads/2/1/7/2/21729846/s841772147385190696_p19_i1_w450.jpeg"
+      },
+      "start_date": {
+        "year": 2014,
+        "month": 3,
+        "date": 1
+      },
+      "text": {
+        "headline": "10.30 Average",
+        "text": "Williams Winter 2014"
+      },
+      "background": {
+        "color": "#566573"
+      },
+      "group": "Pyraminx"
+    },
+    {
+      "media": {
+        "url": "http://www.oz-cubes.com.au/uploads/2/1/7/2/21729846/s841772147385190696_p19_i1_w450.jpeg",
+        "thumbnail": "http://www.oz-cubes.com.au/uploads/2/1/7/2/21729846/s841772147385190696_p19_i1_w450.jpeg"
+      },
+      "start_date": {
+        "year": 2014,
+        "month": 8,
+        "date": 1
+      },
+      "text": {
+        "headline": "10.08 Average",
+        "text": "US Nationals 2014"
+      },
+      "background": {
+        "color": "#566573"
+      },
+      "group": "Pyraminx"
+    },
+    {
+      "media": {
+        "url": "http://www.oz-cubes.com.au/uploads/2/1/7/2/21729846/s841772147385190696_p19_i1_w450.jpeg",
+        "thumbnail": "http://www.oz-cubes.com.au/uploads/2/1/7/2/21729846/s841772147385190696_p19_i1_w450.jpeg"
+      },
+      "start_date": {
+        "year": 2014,
+        "month": 10,
+        "date": 11
+      },
+      "text": {
+        "headline": "6.57 Single",
+        "text": "Harvard Fall 2014"
+      },
+      "background": {
+        "color": "#566573"
+      },
+      "group": "Pyraminx"
+    },
+    {
+      "media": {
+        "url": "http://www.oz-cubes.com.au/uploads/2/1/7/2/21729846/s841772147385190696_p19_i1_w450.jpeg",
+        "thumbnail": "http://www.oz-cubes.com.au/uploads/2/1/7/2/21729846/s841772147385190696_p19_i1_w450.jpeg"
+      },
+      "start_date": {
+        "year": 2014,
+        "month": 11,
+        "date": 8
+      },
+      "text": {
+        "headline": "8.48 Average",
+        "text": "Lexington Fall 2014"
+      },
+      "background": {
+        "color": "#566573"
+      },
+      "group": "Pyraminx"
+    },
+    {
+      "media": {
+        "url": "http://www.oz-cubes.com.au/uploads/2/1/7/2/21729846/s841772147385190696_p19_i1_w450.jpeg",
+        "thumbnail": "http://www.oz-cubes.com.au/uploads/2/1/7/2/21729846/s841772147385190696_p19_i1_w450.jpeg"
+      },
+      "start_date": {
+        "year": 2014,
+        "month": 12,
+        "date": 6
+      },
+      "text": {
+        "headline": "6.24 Single",
+        "text": "MIT Fall 2014"
+      },
+      "background": {
+        "color": "#566573"
+      },
+      "group": "Pyraminx"
+    },
+    {
+      "media": {
+        "url": "http://www.oz-cubes.com.au/uploads/2/1/7/2/21729846/s841772147385190696_p19_i1_w450.jpeg",
+        "thumbnail": "http://www.oz-cubes.com.au/uploads/2/1/7/2/21729846/s841772147385190696_p19_i1_w450.jpeg"
+      },
+      "start_date": {
+        "year": 2014,
+        "month": 12,
+        "date": 6
+      },
+      "text": {
+        "headline": "7.14 Average",
+        "text": "MIT Fall 2014"
+      },
+      "background": {
+        "color": "#566573"
+      },
+      "group": "Pyraminx"
+    },
+    {
+      "media": {
+        "url": "https://ruwix.com/pics/puzzles/rubiks-clock-solution-tutorial-how-to-solve.png",
+        "thumbnail": "https://ruwix.com/pics/puzzles/rubiks-clock-solution-tutorial-how-to-solve.png"
+      },
+      "start_date": {
+        "year": 2013,
+        "month": 9,
+        "date": 21
+      },
+      "text": {
+        "headline": "12.75 Single",
+        "text": "CCFC Fall 2013"
+      },
+      "background": {
+        "color": "#E74C3C"
+      },
+      "group": "Rubik's Clock"
+    },
+    {
+      "media": {
+        "url": "https://ruwix.com/pics/puzzles/rubiks-clock-solution-tutorial-how-to-solve.png",
+        "thumbnail": "https://ruwix.com/pics/puzzles/rubiks-clock-solution-tutorial-how-to-solve.png"
+      },
+      "start_date": {
+        "year": 2013,
+        "month": 9,
+        "date": 21
+      },
+      "text": {
+        "headline": "15.97 Average",
+        "text": "CCFC Fall 2013"
+      },
+      "background": {
+        "color": "#E74C3C"
+      },
+      "group": "Rubik's Clock"
+    },
+    {
+      "media": {
+        "url": "https://ruwix.com/pics/puzzles/rubiks-clock-solution-tutorial-how-to-solve.png",
+        "thumbnail": "https://ruwix.com/pics/puzzles/rubiks-clock-solution-tutorial-how-to-solve.png"
+      },
+      "start_date": {
+        "year": 2014,
+        "month": 12,
+        "date": 6
+      },
+      "text": {
+        "headline": "9.88 Single",
+        "text": "MIT Fall 2014"
+      },
+      "background": {
+        "color": "#E74C3C"
+      },
+      "group": "Rubik's Clock"
+    },
+    {
+      "media": {
+        "url": "https://ruwix.com/pics/puzzles/rubiks-clock-solution-tutorial-how-to-solve.png",
+        "thumbnail": "https://ruwix.com/pics/puzzles/rubiks-clock-solution-tutorial-how-to-solve.png"
+      },
+      "start_date": {
+        "year": 2014,
+        "month": 12,
+        "date": 6
+      },
+      "text": {
+        "headline": "12.17 Average",
+        "text": "MIT Fall 2014"
+      },
+      "background": {
+        "color": "#E74C3C"
+      },
+      "group": "Rubik's Clock"
+    },
+    {
+      "media": {
+        "url": "https://ruwix.com/pics/puzzles/rubiks-clock-solution-tutorial-how-to-solve.png",
+        "thumbnail": "https://ruwix.com/pics/puzzles/rubiks-clock-solution-tutorial-how-to-solve.png"
+      },
+      "start_date": {
+        "year": 2015,
+        "month": 6,
+        "date": 28
+      },
+      "text": {
+        "headline": "11.82 Average",
+        "text": "SoCal Supercomp 2015"
+      },
+      "background": {
+        "color": "#E74C3C"
+      },
+      "group": "Rubik's Clock"
+    },
+    {
+      "media": {
+        "url": "https://images-na.ssl-images-amazon.com/images/I/41V0RfBlidL._SL500_AC_SS350_.jpg",
+        "thumbnail": "https://images-na.ssl-images-amazon.com/images/I/41V0RfBlidL._SL500_AC_SS350_.jpg"
+      },
+      "start_date": {
+        "year": 2014,
+        "month": 2,
+        "date": 1
+      },
+      "text": {
+        "headline": "17.55 Single",
+        "text": "CCFC Winter 2014"
+      },
+      "background": {
+        "color": "#839192"
+      },
+      "group": "Skewb"
+    },
+    {
+      "media": {
+        "url": "https://images-na.ssl-images-amazon.com/images/I/41V0RfBlidL._SL500_AC_SS350_.jpg",
+        "thumbnail": "https://images-na.ssl-images-amazon.com/images/I/41V0RfBlidL._SL500_AC_SS350_.jpg"
+      },
+      "start_date": {
+        "year": 2014,
+        "month": 2,
+        "date": 1
+      },
+      "text": {
+        "headline": "23.57 Average",
+        "text": "CCFC Winter 2014"
+      },
+      "background": {
+        "color": "#839192"
+      },
+      "group": "Skewb"
+    },
+    {
+      "media": {
+        "url": "https://images-na.ssl-images-amazon.com/images/I/41V0RfBlidL._SL500_AC_SS350_.jpg",
+        "thumbnail": "https://images-na.ssl-images-amazon.com/images/I/41V0RfBlidL._SL500_AC_SS350_.jpg"
+      },
+      "start_date": {
+        "year": 2014,
+        "month": 2,
+        "date": 15
+      },
+      "text": {
+        "headline": "15.33 Single",
+        "text": "Princeton Winter 2014"
+      },
+      "background": {
+        "color": "#839192"
+      },
+      "group": "Skewb"
+    },
+    {
+      "media": {
+        "url": "https://images-na.ssl-images-amazon.com/images/I/41V0RfBlidL._SL500_AC_SS350_.jpg",
+        "thumbnail": "https://images-na.ssl-images-amazon.com/images/I/41V0RfBlidL._SL500_AC_SS350_.jpg"
+      },
+      "start_date": {
+        "year": 2014,
+        "month": 4,
+        "date": 12
+      },
+      "text": {
+        "headline": "22.96 Average",
+        "text": "Lexington Spring 2014"
+      },
+      "background": {
+        "color": "#839192"
+      },
+      "group": "Skewb"
+    },
+    {
+      "media": {
+        "url": "https://images-na.ssl-images-amazon.com/images/I/41V0RfBlidL._SL500_AC_SS350_.jpg",
+        "thumbnail": "https://images-na.ssl-images-amazon.com/images/I/41V0RfBlidL._SL500_AC_SS350_.jpg"
+      },
+      "start_date": {
+        "year": 2014,
+        "month": 5,
+        "date": 17
+      },
+      "text": {
+        "headline": "19.36 Average",
+        "text": "Caltech Spring Open 2014"
+      },
+      "background": {
+        "color": "#839192"
+      },
+      "group": "Skewb"
+    },
+    {
+      "media": {
+        "url": "https://images-na.ssl-images-amazon.com/images/I/41V0RfBlidL._SL500_AC_SS350_.jpg",
+        "thumbnail": "https://images-na.ssl-images-amazon.com/images/I/41V0RfBlidL._SL500_AC_SS350_.jpg"
+      },
+      "start_date": {
+        "year": 2014,
+        "month": 6,
+        "date": 14
+      },
+      "text": {
+        "headline": "12.41 Single",
+        "text": "BASC 3: Flagj Day 2014"
+      },
+      "background": {
+        "color": "#839192"
+      },
+      "group": "Skewb"
+    },
+    {
+      "media": {
+        "url": "https://images-na.ssl-images-amazon.com/images/I/41V0RfBlidL._SL500_AC_SS350_.jpg",
+        "thumbnail": "https://images-na.ssl-images-amazon.com/images/I/41V0RfBlidL._SL500_AC_SS350_.jpg"
+      },
+      "start_date": {
+        "year": 2014,
+        "month": 6,
+        "date": 14
+      },
+      "text": {
+        "headline": "18.94 Average",
+        "text": "BASC 3: Flagj Day 2014"
+      },
+      "background": {
+        "color": "#839192"
+      },
+      "group": "Skewb"
+    },
+    {
+      "media": {
+        "url": "https://images-na.ssl-images-amazon.com/images/I/41V0RfBlidL._SL500_AC_SS350_.jpg",
+        "thumbnail": "https://images-na.ssl-images-amazon.com/images/I/41V0RfBlidL._SL500_AC_SS350_.jpg"
+      },
+      "start_date": {
+        "year": 2014,
+        "month": 7,
+        "date": 5
+      },
+      "text": {
+        "headline": "9.11 Single",
+        "text": "Newport Cube Day 2014"
+      },
+      "background": {
+        "color": "#839192"
+      },
+      "group": "Skewb"
+    },
+    {
+      "media": {
+        "url": "https://images-na.ssl-images-amazon.com/images/I/41V0RfBlidL._SL500_AC_SS350_.jpg",
+        "thumbnail": "https://images-na.ssl-images-amazon.com/images/I/41V0RfBlidL._SL500_AC_SS350_.jpg"
+      },
+      "start_date": {
+        "year": 2014,
+        "month": 8,
+        "date": 1
+      },
+      "text": {
+        "headline": "17.58 Average",
+        "text": "US Nationals 2014"
+      },
+      "background": {
+        "color": "#839192"
+      },
+      "group": "Skewb"
+    },
+    {
+      "media": {
+        "url": "https://images-na.ssl-images-amazon.com/images/I/41V0RfBlidL._SL500_AC_SS350_.jpg",
+        "thumbnail": "https://images-na.ssl-images-amazon.com/images/I/41V0RfBlidL._SL500_AC_SS350_.jpg"
+      },
+      "start_date": {
+        "year": 2014,
+        "month": 11,
+        "date": 8
+      },
+      "text": {
+        "headline": "13.27 Average",
+        "text": "Lexington Fall 2014"
+      },
+      "background": {
+        "color": "#839192"
+      },
+      "group": "Skewb"
+    },
+    {
+      "media": {
+        "url": "https://images-na.ssl-images-amazon.com/images/I/41V0RfBlidL._SL500_AC_SS350_.jpg",
+        "thumbnail": "https://images-na.ssl-images-amazon.com/images/I/41V0RfBlidL._SL500_AC_SS350_.jpg"
+      },
+      "start_date": {
+        "year": 2015,
+        "month": 3,
+        "date": 7
+      },
+      "text": {
+        "headline": "11.71 Average",
+        "text": "Williams Winter 2015"
+      },
+      "background": {
+        "color": "#839192"
+      },
+      "group": "Skewb"
+    },
+    {
+      "media": {
+        "url": "https://images-na.ssl-images-amazon.com/images/I/41V0RfBlidL._SL500_AC_SS350_.jpg",
+        "thumbnail": "https://images-na.ssl-images-amazon.com/images/I/41V0RfBlidL._SL500_AC_SS350_.jpg"
+      },
+      "start_date": {
+        "year": 2015,
+        "month": 6,
+        "date": 27
+      },
+      "text": {
+        "headline": "6.59 Single",
+        "text": "SoCal Supercomp 2015"
+      },
+      "background": {
+        "color": "#839192"
+      },
+      "group": "Skewb"
+    },
+    {
+      "media": {
+        "url": "https://images-na.ssl-images-amazon.com/images/I/41V0RfBlidL._SL500_AC_SS350_.jpg",
+        "thumbnail": "https://images-na.ssl-images-amazon.com/images/I/41V0RfBlidL._SL500_AC_SS350_.jpg"
+      },
+      "start_date": {
+        "year": 2015,
+        "month": 10,
+        "date": 11
+      },
+      "text": {
+        "headline": "10.83 Average",
+        "text": "Irvine Fall 2015"
+      },
+      "background": {
+        "color": "#839192"
+      },
+      "group": "Skewb"
+    },
+    {
+      "media": {
+        "url": "http://cubezz.com/images/201510/source_img/4758_G_1445408231746.jpg",
+        "thumbnail": "http://cubezz.com/images/201510/source_img/4758_G_1445408231746.jpg"
+      },
+      "start_date": {
+        "year": 2013,
+        "month": 9,
+        "date": 21
+      },
+      "text": {
+        "headline": "32.37 Single",
+        "text": "CCFC Fall 2013"
+      },
+      "background": {
+        "color": "#D68910"
+      },
+      "group": "Square-1"
+    },
+    {
+      "media": {
+        "url": "http://cubezz.com/images/201510/source_img/4758_G_1445408231746.jpg",
+        "thumbnail": "http://cubezz.com/images/201510/source_img/4758_G_1445408231746.jpg"
+      },
+      "start_date": {
+        "year": 2013,
+        "month": 9,
+        "date": 21
+      },
+      "text": {
+        "headline": "1:05.48 Average",
+        "text": "CCFC Fall 2013"
+      },
+      "background": {
+        "color": "#D68910"
+      },
+      "group": "Square-1"
+    },
+    {
+      "media": {
+        "url": "http://cubezz.com/images/201510/source_img/4758_G_1445408231746.jpg",
+        "thumbnail": "http://cubezz.com/images/201510/source_img/4758_G_1445408231746.jpg"
+      },
+      "start_date": {
+        "year": 2013,
+        "month": 10,
+        "date": 26
+      },
+      "text": {
+        "headline": "1:03.39 Average",
+        "text": "Yale Fall 2013"
+      },
+      "background": {
+        "color": "#D68910"
+      },
+      "group": "Square-1"
+    },
+    {
+      "media": {
+        "url": "http://cubezz.com/images/201510/source_img/4758_G_1445408231746.jpg",
+        "thumbnail": "http://cubezz.com/images/201510/source_img/4758_G_1445408231746.jpg"
+      },
+      "start_date": {
+        "year": 2014,
+        "month": 5,
+        "date": 24
+      },
+      "text": {
+        "headline": "54.58 Average",
+        "text": "San Diego Summer Splash 2014"
+      },
+      "background": {
+        "color": "#D68910"
+      },
+      "group": "Square-1"
+    },
+    {
+      "media": {
+        "url": "http://cubezz.com/images/201510/source_img/4758_G_1445408231746.jpg",
+        "thumbnail": "http://cubezz.com/images/201510/source_img/4758_G_1445408231746.jpg"
+      },
+      "start_date": {
+        "year": 2015,
+        "month": 6,
+        "date": 28
+      },
+      "text": {
+        "headline": "25.58 Single",
+        "text": "SoCal Supercomp 2015"
+      },
+      "background": {
+        "color": "#D68910"
+      },
+      "group": "Square-1"
+    },
+    {
+      "media": {
+        "url": "http://cubezz.com/images/201510/source_img/4758_G_1445408231746.jpg",
+        "thumbnail": "http://cubezz.com/images/201510/source_img/4758_G_1445408231746.jpg"
+      },
+      "start_date": {
+        "year": 2015,
+        "month": 6,
+        "date": 28
+      },
+      "text": {
+        "headline": "40.14 Average",
+        "text": "SoCal Supercomp 2015"
+      },
+      "background": {
+        "color": "#D68910"
+      },
+      "group": "Square-1"
+    },
+    {
+      "media": {
+        "url": "http://cubezz.com/images/201510/source_img/4758_G_1445408231746.jpg",
+        "thumbnail": "http://cubezz.com/images/201510/source_img/4758_G_1445408231746.jpg"
+      },
+      "start_date": {
+        "year": 2015,
+        "month": 7,
+        "date": 31
+      },
+      "text": {
+        "headline": "37.02 Average",
+        "text": "US Nationals 2015"
+      },
+      "background": {
+        "color": "#D68910"
+      },
+      "group": "Square-1"
+    },
+    {
+      "media": {
+        "url": "http://www.rubiksplace.com/images/best-speedcubes/moyu-aosu.png",
+        "thumbnail": "http://www.rubiksplace.com/images/best-speedcubes/moyu-aosu.png"
+      },
+      "start_date": {
+        "year": 2013,
+        "month": 9,
+        "date": 21
+      },
+      "text": {
+        "headline": "5:20.58 Single",
+        "text": "CCFC Fall 2013"
+      },
+      "background": {
+        "color": "#117A65"
+      },
+      "group": "4x4x4 Blindfolded"
+    },
+    {
+      "media": {
+        "url": "http://www.rubiksplace.com/images/best-speedcubes/moyu-aosu.png",
+        "thumbnail": "http://www.rubiksplace.com/images/best-speedcubes/moyu-aosu.png"
+      },
+      "start_date": {
+        "year": 2015,
+        "month": 8,
+        "date": 2
+      },
+      "text": {
+        "headline": "4:41.73 Single",
+        "text": "US Nationals 2015"
+      },
+      "background": {
+        "color": "#117A65"
+      },
+      "group": "4x4x4 Blindfolded"
+    },
+    {
+      "media": {
+        "url": "http://www.rubiksplace.com/images/best-speedcubes/yuxin-5x5-speedcube.png",
+        "thumbnail": "http://www.rubiksplace.com/images/best-speedcubes/yuxin-5x5-speedcube.png"
+      },
+      "start_date": {
+        "year": 2014,
+        "month": 5,
+        "date": 18
+      },
+      "text": {
+        "headline": "19:52.00 Single",
+        "text": "Caltech Spring Open 2014"
+      },
+      "background": {
+        "color": "#CA6F1E"
+      },
+      "group": "5x5x5 Blindfolded"
+    },
+    {
+      "media": {
+        "url": "http://www.rubiksplace.com/images/best-speedcubes/yuxin-5x5-speedcube.png",
+        "thumbnail": "http://www.rubiksplace.com/images/best-speedcubes/yuxin-5x5-speedcube.png"
+      },
+      "start_date": {
+        "year": 2015,
+        "month": 7,
+        "date": 31
+      },
+      "text": {
+        "headline": "14:11.00 Single",
+        "text": "US Nationals 2015"
+      },
+      "background": {
+        "color": "#CA6F1E"
+      },
+      "group": "5x5x5 Blindfolded"
+    },
+    {
+      "media": {
+        "url": "http://www.rubiksplace.com/images/moyu-aolong-speedcube.png",
+        "thumbnail": "http://www.rubiksplace.com/images/moyu-aolong-speedcube.png"
+      },
+      "start_date": {
+        "year": 2013,
+        "month": 4,
+        "date": 27
+      },
+      "text": {
+        "headline": "12/14 55:35",
+        "text": "Diamond Bar Spring Open 2013"
+      },
+      "background": {
+        "color": "#1ABC9C"
+      },
+      "group": "3x3x3 Multi-Blind"
+    },
+    {
+      "media": {
+        "url": "http://www.rubiksplace.com/images/moyu-aolong-speedcube.png",
+        "thumbnail": "http://www.rubiksplace.com/images/moyu-aolong-speedcube.png"
+      },
+      "start_date": {
+        "year": 2013,
+        "month": 7,
+        "date": 27
+      },
+      "text": {
+        "headline": "20/23 57:51",
+        "text": "World Rubik's Cube Championship 2013"
+      },
+      "background": {
+        "color": "#1ABC9C"
+      },
+      "group": "3x3x3 Multi-Blind"
+    },
+    {
+      "media": {
+        "url": "http://www.rubiksplace.com/images/moyu-aolong-speedcube.png",
+        "thumbnail": "http://www.rubiksplace.com/images/moyu-aolong-speedcube.png"
+      },
+      "start_date": {
+        "year": 2013,
+        "month": 10,
+        "date": 5
+      },
+      "text": {
+        "headline": "23/25 56:53 (Former NAR)",
+        "text": "World Rubik's Cube Championship 2013"
+      },
+      "background": {
+        "color": "#1ABC9C"
+      },
+      "group": "3x3x3 Multi-Blind"
+    }
+  ]
+}
