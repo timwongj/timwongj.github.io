@@ -1,0 +1,1022 @@
+{
+  "events": [
+    {
+      "media": {
+        "url": "https://www.rosewoodhotels.com/en/~/media/Images/Rosewood_Hotels_and_Resorts/Rosewood_HongKong/HK_Production_Content_1200x586.ashx",
+        "thumbnail": "https://www.rosewoodhotels.com/en/~/media/Images/Rosewood_Hotels_and_Resorts/Rosewood_HongKong/HK_Production_Content_1200x586.ashx"
+      },
+      "start_date": {
+        "year": 2005,
+        "month": 5
+      },
+      "end_date": {
+        "year": 2005,
+        "month": 7
+      },
+      "text": {
+        "headline": "Hong Kong",
+        "text": "Family Vacation"
+      },
+      "background": {
+        "color": "#b33fa2"
+      }
+    },
+    {
+      "media": {
+        "url": "https://www.rosewoodhotels.com/en/~/media/Images/Rosewood_Hotels_and_Resorts/Rosewood_HongKong/HK_Production_Content_1200x586.ashx",
+        "thumbnail": "https://www.rosewoodhotels.com/en/~/media/Images/Rosewood_Hotels_and_Resorts/Rosewood_HongKong/HK_Production_Content_1200x586.ashx"
+      },
+      "start_date": {
+        "year": 2005,
+        "month": 12
+      },
+      "end_date": {
+        "year": 2005,
+        "month": 12
+      },
+      "text": {
+        "headline": "Hong Kong",
+        "text": "Family Vacation"
+      },
+      "background": {
+        "color": "#b33fa2"
+      }
+    },
+    {
+      "media": {
+        "url": "http://www.theriverinn.com/resourcefiles/attractionsmallimages/kennedy-center-at-dc-th.jpg",
+        "thumbnail": "http://www.theriverinn.com/resourcefiles/attractionsmallimages/kennedy-center-at-dc-th.jpg"
+      },
+      "start_date": {
+        "year": 2009,
+        "month": 4,
+        "date": 7
+      },
+      "end_date": {
+        "year": 2009,
+        "month": 4,
+        "date": 11
+      },
+      "text": {
+        "headline": "Washington D.C.",
+        "text": "Orchestra Performance"
+      },
+      "background": {
+        "color": "#b33f3f"
+      }
+    },
+    {
+      "media": {
+        "url": "https://www.niagarafallsstatepark.com/~/media/parks/niagara-falls/homepage/banner-niagara1.jpg",
+        "thumbnail": "https://www.niagarafallsstatepark.com/~/media/parks/niagara-falls/homepage/banner-niagara1.jpg"
+      },
+      "start_date": {
+        "year": 2010,
+        "month": 8
+      },
+      "end_date": {
+        "year": 2010,
+        "month": 8
+      },
+      "text": {
+        "headline": "East Coast",
+        "text": "Family Vacation"
+      },
+      "background": {
+        "color": "#3fb382"
+      }
+    },
+    {
+      "media": {
+        "url": "https://images.trvl-media.com/media/content/shared/images/travelguides/destination/6023331/Pensacola-62341.jpg",
+        "thumbnail": "https://images.trvl-media.com/media/content/shared/images/travelguides/destination/6023331/Pensacola-62341.jpg"
+      },
+      "start_date": {
+        "year": 2011,
+        "month": 4
+      },
+      "end_date": {
+        "year": 2011,
+        "month": 4
+      },
+      "text": {
+        "headline": "Pensacola",
+        "text": "NJROTC Nationals"
+      },
+      "background": {
+        "color": "#2980b9"
+      }
+    },
+    {
+      "media": {
+        "url": "http://www.veritas.org/wp-content/uploads/2013/09/Stanford.jpg",
+        "thumbnail": "http://www.veritas.org/wp-content/uploads/2013/09/Stanford.jpg"
+      },
+      "start_date": {
+        "year": 2012,
+        "month": 2,
+        "date": 17
+      },
+      "end_date": {
+        "year": 2012,
+        "month": 2,
+        "date": 18
+      },
+      "text": {
+        "headline": "San Francisco",
+        "text": "Stanford Math Tournament"
+      },
+      "background": {
+        "color": "#893fb3"
+      }
+    },
+    {
+      "media": {
+        "url": "https://images.trvl-media.com/media/content/shared/images/travelguides/destination/6023331/Pensacola-62341.jpg",
+        "thumbnail": "https://images.trvl-media.com/media/content/shared/images/travelguides/destination/6023331/Pensacola-62341.jpg"
+      },
+      "start_date": {
+        "year": 2012,
+        "month": 4
+      },
+      "end_date": {
+        "year": 2012,
+        "month": 4
+      },
+      "text": {
+        "headline": "Pensacola",
+        "text": "NJROTC Nationals"
+      },
+      "background": {
+        "color": "#2980b9"
+      }
+    },
+    {
+      "media": {
+        "url": "http://www.thecollegesolution.com/wp-content/uploads/2017/03/northeastern-1.jpg",
+        "thumbnail": "http://www.thecollegesolution.com/wp-content/uploads/2017/03/northeastern-1.jpg"
+      },
+      "start_date": {
+        "year": 2013,
+        "month": 4,
+        "date": 10
+      },
+      "end_date": {
+        "year": 2013,
+        "month": 4,
+        "date": 14
+      },
+      "text": {
+        "headline": "Boston",
+        "text": "College Visit"
+      },
+      "background": {
+        "color": "#3fb396"
+      }
+    },
+    {
+      "media": {
+        "url": "https://www.rosewoodhotels.com/en/~/media/Images/Rosewood_Hotels_and_Resorts/Rosewood_HongKong/HK_Production_Content_1200x586.ashx",
+        "thumbnail": "https://www.rosewoodhotels.com/en/~/media/Images/Rosewood_Hotels_and_Resorts/Rosewood_HongKong/HK_Production_Content_1200x586.ashx"
+      },
+      "start_date": {
+        "year": 2013,
+        "month": 6
+      },
+      "end_date": {
+        "year": 2013,
+        "month": 7
+      },
+      "text": {
+        "headline": "Hong Kong",
+        "text": "Family Vacation"
+      },
+      "background": {
+        "color": "#b33fa2"
+      }
+    },
+    {
+      "media": {
+        "url": "http://www.thecollegesolution.com/wp-content/uploads/2017/03/northeastern-1.jpg",
+        "thumbnail": "http://www.thecollegesolution.com/wp-content/uploads/2017/03/northeastern-1.jpg"
+      },
+      "start_date": {
+        "year": 2013,
+        "month": 7,
+        "date": 17
+      },
+      "end_date": {
+        "year": 2013,
+        "month": 7,
+        "date": 24
+      },
+      "text": {
+        "headline": "Boston",
+        "text": "Orientation"
+      },
+      "background": {
+        "color": "#3fb396"
+      }
+    },
+    {
+      "media": {
+        "url": "http://www.thecollegesolution.com/wp-content/uploads/2017/03/northeastern-1.jpg",
+        "thumbnail": "http://www.thecollegesolution.com/wp-content/uploads/2017/03/northeastern-1.jpg"
+      },
+      "start_date": {
+        "year": 2013,
+        "month": 8,
+        "date": 28
+      },
+      "text": {
+        "headline": "Boston",
+        "text": "Move In"
+      },
+      "background": {
+        "color": "#3fb396"
+      }
+    },
+    {
+      "media": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/5/57/LA_Skyline_Mountains2.jpg",
+        "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/5/57/LA_Skyline_Mountains2.jpg"
+      },
+      "start_date": {
+        "year": 2013,
+        "month": 12,
+        "date": 15
+      },
+      "end_date": {
+        "year": 2014,
+        "month": 1,
+        "date": 5
+      },
+      "text": {
+        "headline": "Los Angeles",
+        "text": "Winter Break"
+      },
+      "background": {
+        "color": "#3fb396"
+      }
+    },
+    {
+      "media": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/5/57/LA_Skyline_Mountains2.jpg",
+        "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/5/57/LA_Skyline_Mountains2.jpg"
+      },
+      "start_date": {
+        "year": 2014,
+        "month": 3,
+        "date": 2
+      },
+      "end_date": {
+        "year": 2014,
+        "month": 3,
+        "date": 9
+      },
+      "text": {
+        "headline": "Los Angeles",
+        "text": "Spring Break"
+      },
+      "background": {
+        "color": "#3fb396"
+      }
+    },
+    {
+      "media": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/5/57/LA_Skyline_Mountains2.jpg",
+        "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/5/57/LA_Skyline_Mountains2.jpg"
+      },
+      "start_date": {
+        "year": 2014,
+        "month": 4,
+        "date": 28
+      },
+      "end_date": {
+        "year": 2014,
+        "month": 8,
+        "date": 30
+      },
+      "text": {
+        "headline": "Los Angeles",
+        "text": "Summer Break"
+      },
+      "background": {
+        "color": "#3fb396"
+      }
+    },
+    {
+      "media": {
+        "url": "https://static1.squarespace.com/static/547f29bfe4b0dc192ed7bdac/54aeb15ce4b018c14f34c7cb/54aeb160e4b018c14f34c7ed/1420734817363/san-franc.jpg?format=2500w",
+        "thumbnail": "https://static1.squarespace.com/static/547f29bfe4b0dc192ed7bdac/54aeb15ce4b018c14f34c7cb/54aeb160e4b018c14f34c7ed/1420734817363/san-franc.jpg?format=2500w"
+      },
+      "start_date": {
+        "year": 2014,
+        "month": 6,
+        "date": 13
+      },
+      "end_date": {
+        "year": 2014,
+        "month": 6,
+        "date": 15
+      },
+      "text": {
+        "headline": "San Francisco",
+        "text": "BASC Cubing Competition"
+      },
+      "background": {
+        "color": "#893fb3"
+      }
+    },
+    {
+      "media": {
+        "url": "https://28nwgk2wx3p52fe6o9419sg5-wpengine.netdna-ssl.com/wp-content/uploads/2017/01/jersey-city-hoboken-real-estate-market-report-q4-2016.jpg",
+        "thumbnail": "https://28nwgk2wx3p52fe6o9419sg5-wpengine.netdna-ssl.com/wp-content/uploads/2017/01/jersey-city-hoboken-real-estate-market-report-q4-2016.jpg"
+      },
+      "start_date": {
+        "year": 2014,
+        "month": 7,
+        "date": 31
+      },
+      "end_date": {
+        "year": 2014,
+        "month": 8,
+        "date": 4
+      },
+      "text": {
+        "headline": "Jersey City",
+        "text": "US Nationals Cubing Competition"
+      },
+      "background": {
+        "color": "#17a589"
+      }
+    },
+    {
+      "media": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/5/57/LA_Skyline_Mountains2.jpg",
+        "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/5/57/LA_Skyline_Mountains2.jpg"
+      },
+      "start_date": {
+        "year": 2014,
+        "month": 12,
+        "date": 14
+      },
+      "end_date": {
+        "year": 2015,
+        "month": 1,
+        "date": 11
+      },
+      "text": {
+        "headline": "Los Angeles",
+        "text": "Winter Break"
+      },
+      "background": {
+        "color": "#3fb396"
+      }
+    },
+    {
+      "media": {
+        "url": "https://cdn.trolleytours.com/wp-content/uploads/2016/06/washington-dc-capitol-at-night.jpg",
+        "thumbnail": "https://cdn.trolleytours.com/wp-content/uploads/2016/06/washington-dc-capitol-at-night.jpg"
+      },
+      "start_date": {
+        "year": 2015,
+        "month": 1,
+        "date": 11
+      },
+      "end_date": {
+        "year": 2015,
+        "month": 1,
+        "date": 14
+      },
+      "text": {
+        "headline": "Washington D.C.",
+        "text": "SFS Job Fair"
+      },
+      "background": {
+        "color": "#b33f3f"
+      }
+    },
+    {
+      "media": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/5/57/LA_Skyline_Mountains2.jpg",
+        "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/5/57/LA_Skyline_Mountains2.jpg"
+      },
+      "start_date": {
+        "year": 2015,
+        "month": 5,
+        "date": 3
+      },
+      "end_date": {
+        "year": 2015,
+        "month": 7,
+        "date": 4
+      },
+      "text": {
+        "headline": "Los Angeles",
+        "text": "Summer Break"
+      },
+      "background": {
+        "color": "#3fb396"
+      }
+    },
+    {
+      "media": {
+        "url": "https://static1.squarespace.com/static/547f29bfe4b0dc192ed7bdac/54aeb15ce4b018c14f34c7cb/54aeb160e4b018c14f34c7ed/1420734817363/san-franc.jpg?format=2500w",
+        "thumbnail": "https://static1.squarespace.com/static/547f29bfe4b0dc192ed7bdac/54aeb15ce4b018c14f34c7cb/54aeb160e4b018c14f34c7ed/1420734817363/san-franc.jpg?format=2500w"
+      },
+      "start_date": {
+        "year": 2015,
+        "month": 5,
+        "date": 29
+      },
+      "end_date": {
+        "year": 2015,
+        "month": 6,
+        "date": 2
+      },
+      "text": {
+        "headline": "San Francisco",
+        "text": "BASC Cubing Competition"
+      },
+      "background": {
+        "color": "#893fb3"
+      }
+    },
+    {
+      "media": {
+        "url": "https://www.sonesta.com/sites/default/files/styles/pano_xl/public/corporate_property_marquee_images/HHI-SG-skyview-night.jpg?itok=4jQIhRrp&timestamp=1502476915",
+        "thumbnail": "https://www.sonesta.com/sites/default/files/styles/pano_xl/public/corporate_property_marquee_images/HHI-SG-skyview-night.jpg?itok=4jQIhRrp&timestamp=1502476915"
+      },
+      "start_date": {
+        "year": 2015,
+        "month": 7,
+        "date": 30
+      },
+      "end_date": {
+        "year": 2015,
+        "month": 8,
+        "date": 3
+      },
+      "text": {
+        "headline": "Hilton Head Island",
+        "text": "US Nationals Cubing Competition"
+      },
+      "background": {
+        "color": "#85c1e9"
+      }
+    },
+    {
+      "media": {
+        "url": "https://whitneylab.berkeley.edu/images/berkeleycampus.jpg",
+        "thumbnail": "https://whitneylab.berkeley.edu/images/berkeleycampus.jpg"
+      },
+      "start_date": {
+        "year": 2015,
+        "month": 10,
+        "date": 7
+      },
+      "end_date": {
+        "year": 2015,
+        "month": 10,
+        "date": 11
+      },
+      "text": {
+        "headline": "San Francisco",
+        "text": "Cal Hacks"
+      },
+      "background": {
+        "color": "#893fb3"
+      }
+    },
+    {
+      "media": {
+        "url": "http://www.ocregister.com/wp-content/uploads/migration/nq2/nq2tcg-b88433576z.120150616234144000ghna9dsf.10.jpg",
+        "thumbnail": "http://www.ocregister.com/wp-content/uploads/migration/nq2/nq2tcg-b88433576z.120150616234144000ghna9dsf.10.jpg"
+      },
+      "start_date": {
+        "year": 2015,
+        "month": 10,
+        "date": 11
+      },
+      "end_date": {
+        "year": 2015,
+        "month": 10,
+        "date": 13
+      },
+      "text": {
+        "headline": "Los Angeles",
+        "text": "Irvine Fall Cubing Competition"
+      },
+      "background": {
+        "color": "#3fb396"
+      }
+    },
+    {
+      "media": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/5/57/LA_Skyline_Mountains2.jpg",
+        "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/5/57/LA_Skyline_Mountains2.jpg"
+      },
+      "start_date": {
+        "year": 2015,
+        "month": 12,
+        "date": 16
+      },
+      "end_date": {
+        "year": 2016,
+        "month": 1,
+        "date": 5
+      },
+      "text": {
+        "headline": "Los Angeles",
+        "text": "Winter Break"
+      },
+      "background": {
+        "color": "#3fb396"
+      }
+    },
+    {
+      "media": {
+        "url": "https://www.execucar.com/wp-content/uploads/2016/09/Honolulu.jpg",
+        "thumbnail": "https://www.execucar.com/wp-content/uploads/2016/09/Honolulu.jpg"
+      },
+      "start_date": {
+        "year": 2016,
+        "month": 1,
+        "date": 5
+      },
+      "end_date": {
+        "year": 2016,
+        "month": 1,
+        "date": 11
+      },
+      "text": {
+        "headline": "Honolulu",
+        "text": "Winter Break"
+      },
+      "background": {
+        "color": "#48c9b0"
+      }
+    },
+    {
+      "media": {
+        "url": "https://cdn.trolleytours.com/wp-content/uploads/2016/06/washington-dc-capitol-at-night.jpg",
+        "thumbnail": "https://cdn.trolleytours.com/wp-content/uploads/2016/06/washington-dc-capitol-at-night.jpg"
+      },
+      "start_date": {
+        "year": 2016,
+        "month": 1,
+        "date": 12
+      },
+      "end_date": {
+        "year": 2016,
+        "month": 1,
+        "date": 14
+      },
+      "text": {
+        "headline": "Washington D.C.",
+        "text": "SFS Job Fair"
+      },
+      "background": {
+        "color": "#b33f3f"
+      }
+    },
+    {
+      "media": {
+        "url": "http://i.dailymail.co.uk/i/pix/2016/01/01/09/2FB6E79E00000578-0-image-a-2_1451640638613.jpg",
+        "thumbnail": "http://i.dailymail.co.uk/i/pix/2016/01/01/09/2FB6E79E00000578-0-image-a-2_1451640638613.jpg"
+      },
+      "start_date": {
+        "year": 2015,
+        "month": 3,
+        "date": 3
+      },
+      "end_date": {
+        "year": 2015,
+        "month": 3,
+        "date": 13
+      },
+      "text": {
+        "headline": "London",
+        "text": "Spring Break"
+      },
+      "background": {
+        "color": "#2980b9"
+      }
+    },
+    {
+      "media": {
+        "url": "http://www.dublintown.ie/wp-content/uploads/2015/08/Dublin-gallery-weekend-HERO-1500x515.jpg",
+        "thumbnail": "http://www.dublintown.ie/wp-content/uploads/2015/08/Dublin-gallery-weekend-HERO-1500x515.jpg"
+      },
+      "start_date": {
+        "year": 2015,
+        "month": 3,
+        "date": 10
+      },
+      "end_date": {
+        "year": 2015,
+        "month": 3,
+        "date": 11
+      },
+      "text": {
+        "headline": "Dublin",
+        "text": "Spring Break"
+      },
+      "background": {
+        "color": "#27ae60"
+      }
+    },
+    {
+      "media": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/5/57/LA_Skyline_Mountains2.jpg",
+        "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/5/57/LA_Skyline_Mountains2.jpg"
+      },
+      "start_date": {
+        "year": 2016,
+        "month": 4,
+        "date": 7
+      },
+      "end_date": {
+        "year": 2016,
+        "month": 4,
+        "date": 9
+      },
+      "text": {
+        "headline": "Los Angeles",
+        "text": "Visiting Friend"
+      },
+      "background": {
+        "color": "#3fb396"
+      }
+    },
+    {
+      "media": {
+        "url": "https://whitneylab.berkeley.edu/images/berkeleycampus.jpg",
+        "thumbnail": "https://whitneylab.berkeley.edu/images/berkeleycampus.jpg"
+      },
+      "start_date": {
+        "year": 2016,
+        "month": 4,
+        "date": 9
+      },
+      "end_date": {
+        "year": 2016,
+        "month": 4,
+        "date": 11
+      },
+      "text": {
+        "headline": "San Francisco",
+        "text": "UC Berkeley Cubing Competition"
+      },
+      "background": {
+        "color": "#893fb3"
+      }
+    },
+    {
+      "media": {
+        "url": "http://www.ocregister.com/wp-content/uploads/migration/nq2/nq2tcg-b88433576z.120150616234144000ghna9dsf.10.jpg",
+        "thumbnail": "http://www.ocregister.com/wp-content/uploads/migration/nq2/nq2tcg-b88433576z.120150616234144000ghna9dsf.10.jpg"
+      },
+      "start_date": {
+        "year": 2016,
+        "month": 6,
+        "date": 16
+      },
+      "end_date": {
+        "year": 2016,
+        "month": 6,
+        "date": 20
+      },
+      "text": {
+        "headline": "Los Angeles",
+        "text": "UC Irvine Cubing Competition"
+      },
+      "background": {
+        "color": "#3fb396"
+      }
+    },
+    {
+      "media": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/5/57/LA_Skyline_Mountains2.jpg",
+        "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/5/57/LA_Skyline_Mountains2.jpg"
+      },
+      "start_date": {
+        "year": 2016,
+        "month": 6,
+        "date": 27
+      },
+      "end_date": {
+        "year": 2016,
+        "month": 7,
+        "date": 4
+      },
+      "text": {
+        "headline": "Los Angeles",
+        "text": "Summer Break"
+      },
+      "background": {
+        "color": "#3fb396"
+      }
+    },
+    {
+      "media": {
+        "url": "https://static1.squarespace.com/static/557e58f2e4b071274fc579d1/t/5580e16be4b032e0bb2f1adc/1434509740680/From-Above-Pittock-Mansion-Portland-Oregon.jpg?format=1500w",
+        "thumbnail": "https://static1.squarespace.com/static/557e58f2e4b071274fc579d1/t/5580e16be4b032e0bb2f1adc/1434509740680/From-Above-Pittock-Mansion-Portland-Oregon.jpg?format=1500w"
+      },
+      "start_date": {
+        "year": 2016,
+        "month": 7,
+        "date": 28
+      },
+      "end_date": {
+        "year": 2016,
+        "month": 8,
+        "date": 1
+      },
+      "text": {
+        "headline": "Portland",
+        "text": "US Nationals Cubing Competition"
+      },
+      "background": {
+        "color": "#f39c12"
+      }
+    },
+    {
+      "media": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/5/57/LA_Skyline_Mountains2.jpg",
+        "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/5/57/LA_Skyline_Mountains2.jpg"
+      },
+      "start_date": {
+        "year": 2016,
+        "month": 12,
+        "date": 15
+      },
+      "end_date": {
+        "year": 2017,
+        "month": 1,
+        "date": 4
+      },
+      "text": {
+        "headline": "Los Angeles",
+        "text": "Winter Break"
+      },
+      "background": {
+        "color": "#3fb396"
+      }
+    },
+    {
+      "media": {
+        "url": "https://cdn.trolleytours.com/wp-content/uploads/2016/06/washington-dc-capitol-at-night.jpg",
+        "thumbnail": "https://cdn.trolleytours.com/wp-content/uploads/2016/06/washington-dc-capitol-at-night.jpg"
+      },
+      "start_date": {
+        "year": 2017,
+        "month": 1,
+        "date": 4
+      },
+      "end_date": {
+        "year": 2017,
+        "month": 1,
+        "date": 6
+      },
+      "text": {
+        "headline": "Washington D.C.",
+        "text": "SFS Job Fair"
+      },
+      "background": {
+        "color": "#b33f3f"
+      }
+    },
+    {
+      "media": {
+        "url": "https://www1.toronto.ca/City%20Of%20Toronto/wp/business-economy/invest-in-toronto/images/invest-in-toronto-995x330.png",
+        "thumbnail": "https://www1.toronto.ca/City%20Of%20Toronto/wp/business-economy/invest-in-toronto/images/invest-in-toronto-995x330.png"
+      },
+      "start_date": {
+        "year": 2017,
+        "month": 3,
+        "date": 4
+      },
+      "end_date": {
+        "year": 2017,
+        "month": 3,
+        "date": 4
+      },
+      "text": {
+        "headline": "Toronto",
+        "text": "Spring Break"
+      },
+      "background": {
+        "color": "#768fb9"
+      }
+    },
+    {
+      "media": {
+        "url": "http://www.telegraph.co.uk/content/dam/Travel/Destinations/Europe/Denmark/Copenhagen/Denmark---Copenhagen---Cruise---Nyhavn-xlarge.jpg",
+        "thumbnail": "http://www.telegraph.co.uk/content/dam/Travel/Destinations/Europe/Denmark/Copenhagen/Denmark---Copenhagen---Cruise---Nyhavn-xlarge.jpg"
+      },
+      "start_date": {
+        "year": 2017,
+        "month": 3,
+        "date": 5
+      },
+      "end_date": {
+        "year": 2017,
+        "month": 3,
+        "date": 7
+      },
+      "text": {
+        "headline": "Copenhagen",
+        "text": "Spring Break"
+      },
+      "background": {
+        "color": "#7dcea0"
+      }
+    },
+    {
+      "media": {
+        "url": "https://a1.odistatic.net/images/landingpages/vacation/1920x800/budapest_1920x800.jpg",
+        "thumbnail": "https://a1.odistatic.net/images/landingpages/vacation/1920x800/budapest_1920x800.jpg"
+      },
+      "start_date": {
+        "year": 2017,
+        "month": 3,
+        "date": 7
+      },
+      "end_date": {
+        "year": 2017,
+        "month": 3,
+        "date": 9
+      },
+      "text": {
+        "headline": "Budapest",
+        "text": "Spring Break"
+      },
+      "background": {
+        "color": "#f4d536"
+      }
+    },
+    {
+      "media": {
+        "url": "https://www.visitberlin.de/system/files/styles/visitberlin_teaser_full_width_visitberlin_mobile_1x/private/image/iStock_000074120341_Double_DL_PPT_0.jpg?itok=tD4ERppn",
+        "thumbnail": "https://www.visitberlin.de/system/files/styles/visitberlin_teaser_full_width_visitberlin_mobile_1x/private/image/iStock_000074120341_Double_DL_PPT_0.jpg?itok=tD4ERppn"
+      },
+      "start_date": {
+        "year": 2017,
+        "month": 3,
+        "date": 9
+      },
+      "end_date": {
+        "year": 2017,
+        "month": 3,
+        "date": 10
+      },
+      "text": {
+        "headline": "Berlin",
+        "text": "Spring Break"
+      },
+      "background": {
+        "color": "#7fb3d5"
+      }
+    },
+    {
+      "media": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/5/57/LA_Skyline_Mountains2.jpg",
+        "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/5/57/LA_Skyline_Mountains2.jpg"
+      },
+      "start_date": {
+        "year": 2017,
+        "month": 4,
+        "date": 25
+      },
+      "end_date": {
+        "year": 2017,
+        "month": 5,
+        "date": 1
+      },
+      "text": {
+        "headline": "Los Angeles",
+        "text": "Summer Break"
+      },
+      "background": {
+        "color": "#3fb396"
+      }
+    },
+    {
+      "media": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Space_Needle002.jpg/1200px-Space_Needle002.jpg",
+        "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Space_Needle002.jpg/1200px-Space_Needle002.jpg"
+      },
+      "start_date": {
+        "year": 2017,
+        "month": 5,
+        "date": 1
+      },
+      "end_date": {
+        "year": 2017,
+        "month": 5,
+        "date": 6
+      },
+      "text": {
+        "headline": "Seattle",
+        "text": "Summer Break"
+      },
+      "background": {
+        "color": "#27ae60"
+      }
+    },
+    {
+      "media": {
+        "url": "https://static1.squarespace.com/static/557e58f2e4b071274fc579d1/t/5580e16be4b032e0bb2f1adc/1434509740680/From-Above-Pittock-Mansion-Portland-Oregon.jpg?format=1500w",
+        "thumbnail": "https://static1.squarespace.com/static/557e58f2e4b071274fc579d1/t/5580e16be4b032e0bb2f1adc/1434509740680/From-Above-Pittock-Mansion-Portland-Oregon.jpg?format=1500w"
+      },
+      "start_date": {
+        "year": 2017,
+        "month": 5,
+        "date": 4
+      },
+      "end_date": {
+        "year": 2017,
+        "month": 5,
+        "date": 6
+      },
+      "text": {
+        "headline": "Portland",
+        "text": "Summer Break"
+      },
+      "background": {
+        "color": "#f39c12"
+      }
+    },
+    {
+      "media": {
+        "url": "https://www.leresearch.com/cms_uploads/le-cincinnati-skyline.jpg",
+        "thumbnail": "https://www.leresearch.com/cms_uploads/le-cincinnati-skyline.jpg"
+      },
+      "start_date": {
+        "year": 2017,
+        "month": 7,
+        "date": 13
+      },
+      "end_date": {
+        "year": 2017,
+        "month": 7,
+        "date": 29
+      },
+      "text": {
+        "headline": "Cincinnati",
+        "text": "OTR Missions"
+      },
+      "background": {
+        "color": "#f5b041"
+      }
+    },
+    {
+      "media": {
+        "url": "https://cdn.vox-cdn.com/uploads/chorus_image/image/54460459/vistaexterior4.0.0.0.jpeg",
+        "thumbnail": "https://cdn.vox-cdn.com/uploads/chorus_image/image/54460459/vistaexterior4.0.0.0.jpeg"
+      },
+      "start_date": {
+        "year": 2017,
+        "month": 7,
+        "date": 31
+      },
+      "end_date": {
+        "year": 2017,
+        "month": 8,
+        "date": 3
+      },
+      "text": {
+        "headline": "Chicago",
+        "text": "Summer Break"
+      },
+      "background": {
+        "color": "#85c1e9"
+      }
+    },
+    {
+      "media": {
+        "url": "http://i.huffpost.com/gen/1716876/images/o-ATLANTA-TRAFFIC-facebook.jpg",
+        "thumbnail": "http://i.huffpost.com/gen/1716876/images/o-ATLANTA-TRAFFIC-facebook.jpg"
+      },
+      "start_date": {
+        "year": 2017,
+        "month": 8,
+        "date": 3
+      },
+      "end_date": {
+        "year": 2017,
+        "month": 8,
+        "date": 6
+      },
+      "text": {
+        "headline": "Atlanta",
+        "text": "Summer Break"
+      },
+      "background": {
+        "color": "#cd6155"
+      }
+    }
+  ]
+}
